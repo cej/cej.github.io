@@ -1,0 +1,2355 @@
+1
+00:00:00,000 --> 00:00:23,280
+Okay, this is Conquered Storytellers, episode three, with a very, very, very special guest.
+
+2
+00:00:23,280 --> 00:00:31,840
+The 2022 Templeton Prize award winner, 2005 King Faisal Prize winner, 2004 Nobel Prize winner.
+
+3
+00:00:33,120 --> 00:00:36,720
+This is kind of like when Tiger Woods tees off at a golf tournament and they list all the
+
+4
+00:00:37,360 --> 00:00:44,960
+all the tournaments he's won. Concord Resident, Neighbor, and full disclosure, my father-in-law.
+
+5
+00:00:45,600 --> 00:00:51,520
+So if this goes poorly, then we can we could have him meet the parents part three premise, I guess.
+
+6
+00:00:51,520 --> 00:00:59,920
+Welcome. Thank you. Thanks for coming on. Yeah. Also happy birthday. It's coming up. I guess it's
+
+7
+00:00:59,920 --> 00:01:06,800
+your birthday week. We celebrated yesterday and I'd say I like really like shopping for presents
+
+8
+00:01:06,800 --> 00:01:12,480
+for you, right? Because these days I get to go to the toy section at Target with my son and pick out
+
+9
+00:01:12,480 --> 00:01:18,800
+fun stuff to play with. I'll say that it's interesting. We've known each other for a long
+
+10
+00:01:18,800 --> 00:01:25,440
+time now, but we don't we haven't really talked a lot about work stuff in either in either of our
+
+11
+00:01:25,440 --> 00:01:31,440
+lives. I think we kind of know if a day went well at work or not. But I'll say one of the highlights
+
+12
+00:01:31,440 --> 00:01:40,800
+from my business career was guest lecturing at your class, the Cross MIT and Arizona State class.
+
+13
+00:01:42,160 --> 00:01:46,960
+Because I thought it was a cool way to give insight into the things I've been doing for the
+
+14
+00:01:46,960 --> 00:01:51,520
+previous decade. And you got to I think see maybe a little more than you had seen in the past
+
+15
+00:01:52,240 --> 00:02:00,880
+of the work I had done. I've gotten a lot of peaks on it. Yeah. So I think I'm excited to talk to you
+
+16
+00:02:00,880 --> 00:02:08,080
+about the work you've done currently, but also in the past. And I think it's worth asking how many
+
+17
+00:02:08,080 --> 00:02:17,520
+how many jobs do you currently have? It depends how you count. But I, I would, I think I have four affiliations.
+
+18
+00:02:20,480 --> 00:02:28,960
+MIT, Arizona State University. I'm also a professor there and Stockholm University.
+
+19
+00:02:29,680 --> 00:02:36,960
+And then I have a relation some relationships in China. There's something called the T.D. Lee
+
+20
+00:02:36,960 --> 00:02:42,800
+Institute of which I was director and now I'm chief scientist. And then there's something called
+
+21
+00:02:42,800 --> 00:02:50,640
+the Wilczek Quantum Center. Both are in Shanghai and there I'm also chief scientist and
+
+22
+00:02:51,600 --> 00:02:58,400
+sort of invested because my name is on it. Yeah. And that's is that fully built now and functioning?
+
+23
+00:02:58,400 --> 00:03:07,360
+It's growing. It's evolving, I would say. Yes. So it's neither one is a finished product, but they
+
+24
+00:03:08,080 --> 00:03:13,760
+they've come a long way and are starting to be significant institutions in the scientific
+
+25
+00:03:13,760 --> 00:03:23,840
+firmament. That's great. I wanted to I think that for the perspective of this project I've been doing,
+
+26
+00:03:23,840 --> 00:03:29,360
+I don't think we'll go super deep into theoretical physics, but I wanted this kind of
+
+27
+00:03:31,760 --> 00:03:36,880
+talk a bit about how your career got going and how it's evolved, how it evolved over time.
+
+28
+00:03:37,920 --> 00:03:45,040
+I think that for most people in the world, something like a Templeton Prize or a Nobel Prize is
+
+29
+00:03:45,040 --> 00:03:51,200
+kind of like not real. It's something like almost unattainable and something that doesn't happen to
+
+30
+00:03:51,200 --> 00:03:59,360
+people in their world. Just getting started, how did you get interested in science in the first place?
+
+31
+00:04:00,240 --> 00:04:06,640
+Well, I've always been interested in science. My earliest memories are of taking things apart
+
+32
+00:04:06,640 --> 00:04:16,240
+and putting them back together. And I had a little notebook where I tried to make big numbers
+
+33
+00:04:16,240 --> 00:04:25,360
+and I saved up money to buy a telescope. All this happened in early childhood. So it came naturally.
+
+34
+00:04:25,360 --> 00:04:29,360
+Also, my parents very much encouraged it and my school very much encouraged it.
+
+35
+00:04:30,160 --> 00:04:41,200
+And the outside world very much encouraged it at the time. I was born in 1951, so formative years
+
+36
+00:04:41,200 --> 00:04:49,760
+were in New York City during the Cold War. And the whole country was kind of mobilized by
+
+37
+00:04:52,240 --> 00:05:04,160
+this feeling that we needed to have technology that was going to protect us. And there was still
+
+38
+00:05:04,160 --> 00:05:12,400
+cultural memory fresh from World War II when the atom bomb and scientists were kind of like
+
+39
+00:05:12,400 --> 00:05:25,440
+magicians, very powerful, very central to the country's flourishing. And we were necessary to
+
+40
+00:05:26,000 --> 00:05:31,680
+stand up to threats, perceived threats. It was the time of the space war, the time of the
+
+41
+00:05:31,680 --> 00:05:35,280
+threats. It was the time of the space race and Sputnik.
+
+42
+00:05:36,400 --> 00:05:45,440
+So it was an exciting time. And so it was growing up with being a scientist was a very aspirational
+
+43
+00:05:46,560 --> 00:05:49,760
+occupation, it sounds like, even certainly more so than today.
+
+44
+00:05:49,760 --> 00:06:02,960
+I think so, yes. It was much more viewed as a crucial component of society flourishing.
+
+45
+00:06:03,600 --> 00:06:11,040
+And scientists, as I said, there was still the penumbra of the atom bomb and this kind of magic,
+
+46
+00:06:11,040 --> 00:06:20,320
+that enormous power that scientists had. It was like magicians, but for real.
+
+47
+00:06:20,320 --> 00:06:24,400
+Well, I remember, do you remember looking, you were looking in your parents basement and
+
+48
+00:06:24,400 --> 00:06:29,280
+you had this, it was almost like a Cuban Missile Crisis board game. Do you remember finding that?
+
+49
+00:06:30,480 --> 00:06:38,640
+Well, yeah. I had many toys that touched on these themes.
+
+50
+00:06:38,640 --> 00:06:40,240
+That's wild.
+
+51
+00:06:40,240 --> 00:06:50,080
+But yes, this and I had a set of model rockets of different sizes and shapes. So it was sort of
+
+52
+00:06:50,080 --> 00:06:58,240
+showed our arsenal, different things like that. And I really enjoyed those things too, I have to say.
+
+53
+00:06:58,240 --> 00:07:05,840
+Yeah. And when specifically, you were always into sort of general sciences and math,
+
+54
+00:07:05,840 --> 00:07:09,280
+when specifically did you decide that physics was your passion?
+
+55
+00:07:09,280 --> 00:07:18,480
+Oh, I didn't decide on physics till quite late. In fact, when I went to college at the University
+
+56
+00:07:18,480 --> 00:07:30,800
+of Chicago, my intention was to try to understand how minds work rigorously with mathematical
+
+57
+00:07:30,800 --> 00:07:39,120
+methods. So what would now be called computer science, but also mathematical logic and
+
+58
+00:07:40,240 --> 00:07:45,760
+philosophy was a mixture of all those things. That's what I thought I would do. But when I
+
+59
+00:07:47,760 --> 00:07:56,240
+learn more about it, I realized that it was premature, that there just wasn't enough
+
+60
+00:07:56,240 --> 00:08:04,800
+basis to do what I hoped to do. And so I majored in math just to keep my options open.
+
+61
+00:08:08,240 --> 00:08:13,200
+And then I went to Princeton as a graduate student. I was still pretty young when I went to
+
+62
+00:08:13,200 --> 00:08:24,960
+Princeton. I had raced through school. And I went to graduate school in Princeton as a math graduate
+
+63
+00:08:24,960 --> 00:08:35,760
+student. It was kind of under false pretenses. I was pretty sure I didn't want to do pure mathematics.
+
+64
+00:08:37,760 --> 00:08:47,040
+But it was kind of the path of least resistance because it was easy to fulfill the requirements.
+
+65
+00:08:47,040 --> 00:08:56,240
+And I was pretty good at it. So I did that. And I looked around when I got to Princeton. I was
+
+66
+00:08:56,240 --> 00:09:01,280
+really kind of in the wilderness. I didn't know what I wanted to do. As I learned more about pure
+
+67
+00:09:01,280 --> 00:09:08,320
+mathematics, I became more certain about what I didn't want to do, which was that. But I went to
+
+68
+00:09:08,320 --> 00:09:19,360
+the seminars about physics, about biology, about computers. Although there wasn't so much about
+
+69
+00:09:19,360 --> 00:09:30,560
+computers at that time. Then... Were you even using... I mean, there was no computer science,
+
+70
+00:09:30,560 --> 00:09:34,160
+you said, but I mean, people were using, just starting to use computers around that time.
+
+71
+00:09:34,160 --> 00:09:45,440
+Well, it was the IBM 360. So it was a gigantic room that had access to this machine,
+
+72
+00:09:46,240 --> 00:09:55,360
+you know, with tapes spinning around and flashing lights. But to actually use it, you had punch cards.
+
+73
+00:09:55,360 --> 00:10:00,960
+You would type in a side room, you would type in these punch cards and feed them into the computer.
+
+74
+00:10:00,960 --> 00:10:05,760
+And you wouldn't get immediate output. You'd have to wait 20 minutes and then you'd get error
+
+75
+00:10:05,760 --> 00:10:12,160
+messages saying, oh, this, your semicolons and... They wouldn't get useful error messages, actually,
+
+76
+00:10:12,160 --> 00:10:18,800
+but things wouldn't work. And then you dope it out and figure out that the semicolon was in the
+
+77
+00:10:18,800 --> 00:10:25,600
+wrong column or something like that. And then when finally you got things to work, the output was in
+
+78
+00:10:25,600 --> 00:10:29,200
+a completely different building. It was a different world.
+
+79
+00:10:29,200 --> 00:10:38,880
+So it was a different world. So that actually impacted some calculations I was trying to do
+
+80
+00:10:38,880 --> 00:10:51,600
+later. But yeah, it was a different world. Anyway, it just so happened... Well, by kind of shopping
+
+81
+00:10:51,600 --> 00:10:59,440
+around and seeing what was going on, I got the impression that very interesting things were
+
+82
+00:10:59,440 --> 00:11:06,960
+happening in physics at that time that used the kind of mathematics that I really liked.
+
+83
+00:11:08,000 --> 00:11:13,040
+When I was a senior at the University of Chicago, or my last year at the University of Chicago,
+
+84
+00:11:13,040 --> 00:11:20,960
+I had taken a course from a professor named Peter Freund about symmetry in physics or group theory
+
+85
+00:11:20,960 --> 00:11:27,760
+as applied to physics that I really, really, really super enjoyed. He was very charismatic,
+
+86
+00:11:27,760 --> 00:11:35,840
+very enthusiastic. And it was the mathematics that I really liked. I fell in love with the quantum
+
+87
+00:11:35,840 --> 00:11:42,320
+theory of angular momentum, which to this day is my favorite thing in physics. It's this amazing
+
+88
+00:11:42,320 --> 00:11:50,560
+mapping of mathematically ideal structures into the physical world where you can make based on
+
+89
+00:11:51,680 --> 00:11:59,120
+very compelling kind of ideal mathematical conceptions, do calculations that then you
+
+90
+00:11:59,120 --> 00:12:05,840
+compare with experiments that very concrete things about the directions that particles emerge from
+
+91
+00:12:05,840 --> 00:12:15,360
+the decays and things like that. And not vague, it's very specific in details. I really liked that.
+
+92
+00:12:15,360 --> 00:12:24,000
+But I didn't... And he also gave the impression that there were still open questions. There were
+
+93
+00:12:24,000 --> 00:12:34,640
+lots of loose ends. But still, I didn't make up my mind at that point. Just logistically,
+
+94
+00:12:34,640 --> 00:12:39,120
+it was not a trivial thing to change programs in graduate school.
+
+95
+00:12:41,680 --> 00:12:44,960
+Well, especially in graduate school because professors only have so many slots for people.
+
+96
+00:12:48,400 --> 00:12:54,400
+When you go to graduate school as a mathematician, you're expected to be a mathematician.
+
+97
+00:12:57,600 --> 00:13:03,280
+But I was very responsible and kind of naive at that time. I didn't realize that that was
+
+98
+00:13:03,280 --> 00:13:09,440
+the expectation. Well, you were really young too though. I was very young. Were you 18 or 19
+
+99
+00:13:10,080 --> 00:13:17,360
+when you got out there? Yeah, I just turned 18. Just turned 18 to start the PhD program.
+
+100
+00:13:17,360 --> 00:13:29,440
+Just turned 18 or 19, yeah. And so I still was shopping around for things to do. I was kind of
+
+101
+00:13:29,440 --> 00:13:36,400
+lost for the first couple of years really. But then I was very fortunate in several ways because
+
+102
+00:13:37,680 --> 00:13:43,840
+the math building at that time was physically attached to the physics building. So it was very
+
+103
+00:13:43,840 --> 00:13:53,520
+easy to wander over to the physics building from the math tower. And so I went to seminars and
+
+104
+00:13:53,520 --> 00:14:02,880
+colloquia and saw what was going on. And I got the impression, which was correct, that very exciting
+
+105
+00:14:02,880 --> 00:14:09,040
+things were going on in physics that used some of the mathematics that I really liked about symmetry
+
+106
+00:14:09,840 --> 00:14:21,600
+and some aspects of what's called analysis. And I met a very charismatic young professor named
+
+107
+00:14:21,600 --> 00:14:33,920
+David Gross who also happened to be the director of graduate studies. So he kind of greased the
+
+108
+00:14:33,920 --> 00:14:44,080
+wheels. Sure. I could make the transition and we hit it off right away. Was that a risk for him
+
+109
+00:14:44,080 --> 00:14:50,720
+to help you change? I mean, it's to sound like he had the power to make that happen.
+
+110
+00:14:50,720 --> 00:14:56,000
+A, he had the power to make it happen. I don't think it was a great risk for him. He was clearly
+
+111
+00:14:56,000 --> 00:15:02,560
+on the rise, kind of a star within the department. Although I think when I first met him, he still
+
+112
+00:15:02,560 --> 00:15:16,080
+didn't quite have tenure, but he got tenure just as at this point. And so it was him and then
+
+113
+00:15:16,080 --> 00:15:22,880
+Ken Wilson, who was developing his ideas, which are very famous within physics and got him another
+
+114
+00:15:22,880 --> 00:15:28,800
+prize a little later about what's called the renormalization group. So new mathematical
+
+115
+00:15:28,800 --> 00:15:40,720
+techniques for analyzing how you can calculate the behavior of particles within the reticle
+
+116
+00:15:40,720 --> 00:15:45,280
+frameworks, how they behave at short distances and how you can compare that with the
+
+117
+00:15:45,280 --> 00:15:54,080
+experiment. But the ideas were pretty vague. They didn't work in a specific theory, but very
+
+118
+00:15:54,080 --> 00:16:12,800
+clearly fun. And so I just decided that that was what I could try to do. So the stars were aligned.
+
+119
+00:16:12,800 --> 00:16:22,240
+They were very interesting things going on. I had a contact and a very promising relationship to
+
+120
+00:16:22,240 --> 00:16:31,600
+build on. And so I went into physics. I had taken a few physics courses. I had read the Feynman
+
+121
+00:16:31,600 --> 00:16:39,120
+lectures as they were coming out. They're now famous Feynman lectures. And I thought I
+
+122
+00:16:39,120 --> 00:16:45,680
+understood them, but in retrospect, clearly I did not understand most of what was in there.
+
+123
+00:16:49,680 --> 00:16:56,000
+So I did make the transfer into physics. I learned just enough to pass the exams
+
+124
+00:16:56,000 --> 00:17:01,760
+that were necessary. They waived some requirements about experiments. And
+
+125
+00:17:01,760 --> 00:17:08,960
+within a few months, David and I had done the work that later got the Nobel Prize.
+
+126
+00:17:08,960 --> 00:17:16,560
+Well, I want to ask before you even started that specific project, was your feeling at the time
+
+127
+00:17:17,360 --> 00:17:22,400
+with physics almost like, I guess, maybe 10 years ago when AI started to emerge,
+
+128
+00:17:22,400 --> 00:17:27,440
+it's obviously an extremely hot topic now. You could tell it was you were at a fundamental
+
+129
+00:17:27,440 --> 00:17:36,560
+leaping point for theoretical physics. I think it's more like what AI was like maybe 20 years ago.
+
+130
+00:17:36,560 --> 00:17:42,400
+Oh, yes. We have to go back. It's very unclear. Yeah. Well, and then was there any sense? I mean,
+
+131
+00:17:42,400 --> 00:17:46,320
+I think with AI, there's always been this great sense of danger. Was there any of that sense with
+
+132
+00:17:46,320 --> 00:17:54,560
+any of this work at all? No, no, no, no. That would be very remote. I think it was very
+
+133
+00:17:54,560 --> 00:18:01,520
+and that would that would be very remote because this to this was work on
+
+134
+00:18:05,600 --> 00:18:12,960
+well, very fundamental interactions. But basically what happens inside atomic nuclei
+
+135
+00:18:13,760 --> 00:18:18,320
+and what happens at accelerators and things, so things where you have to
+
+136
+00:18:18,320 --> 00:18:30,480
+go to great trouble to investigate. Sure. So the practical applications seem very remote and
+
+137
+00:18:30,480 --> 00:18:36,560
+right. And in fact, have not they have there aren't any. Yeah. To make a little story short.
+
+138
+00:18:37,360 --> 00:18:42,960
+OK. And that's the least if there are they're very futuristic. So this is like I remember in
+
+139
+00:18:42,960 --> 00:18:47,440
+the movie Oppenheimer, they talk about lighting the sky on fire. And then, yes, I know in CERN
+
+140
+00:18:47,440 --> 00:18:51,040
+open people were saying, oh, my goodness, this is going to create a black hole that will consume
+
+141
+00:18:51,040 --> 00:18:57,840
+the universe. Right. That stuff is a little overblown in terms of those concerns. Yes. Yeah. Yeah.
+
+142
+00:19:00,000 --> 00:19:09,520
+Well, that's right. Of course, the people who started nuclear physics had no idea that
+
+143
+00:19:09,520 --> 00:19:20,080
+it had the potential to make weapons. Right. It was a later development and later developments
+
+144
+00:19:20,080 --> 00:19:27,840
+did suggest that maybe playing around with very, very high energies could not ignite the atmosphere
+
+145
+00:19:27,840 --> 00:19:38,880
+in a fire, which was the issue with atomic bombs, but trigger a cosmic catastrophe where you change
+
+146
+00:19:38,880 --> 00:19:44,400
+the nature of the fundamental laws. Change the nature of space. That could be a problem.
+
+147
+00:19:45,360 --> 00:19:49,920
+It would be a big problem. But the good news is you'd never know what hit you. OK. Come out of
+
+148
+00:19:49,920 --> 00:19:55,840
+you at the speed of light. And yeah, but it's just over. It's just over. Yeah. You go over into a
+
+149
+00:19:55,840 --> 00:20:14,880
+purple haze. But those things, how should I say, they were very far from our minds and very far
+
+150
+00:20:14,880 --> 00:20:22,880
+from this was not an engineering endeavor. It was finding out what the laws are. And when you find
+
+151
+00:20:22,880 --> 00:20:30,400
+out what the laws are, they might have surprising implications. In this case, we found that
+
+152
+00:20:32,560 --> 00:20:39,360
+there was no, no hint of no real hint of possible catastrophes. Fantastic. Yeah.
+
+153
+00:20:40,000 --> 00:20:46,800
+That's great news. Yeah. So when you when you and David were working on
+
+154
+00:20:46,800 --> 00:20:53,040
+asymptotic freedom, was that something I should say? The thing that's relevant is that although
+
+155
+00:20:53,040 --> 00:21:00,240
+these conditions are difficult, the conditions of where you are probing the new laws that fund
+
+156
+00:21:00,240 --> 00:21:07,280
+them at very high energies, short distances, they're very hard to study under controlled
+
+157
+00:21:07,280 --> 00:21:16,240
+conditions. But in the history of the universe, they've occurred somewhere lots of time. Yeah.
+
+158
+00:21:16,240 --> 00:21:23,200
+With high energy cosmic rays all over the universe and in the big bang. And so, so just a priori
+
+159
+00:21:24,080 --> 00:21:30,640
+on that basis, the idea that you could trigger a catastrophe seemed very, very remote. Sure.
+
+160
+00:21:34,160 --> 00:21:42,080
+When you were when you and David were working on asymptotic freedom, did you kind of have the sense
+
+161
+00:21:42,080 --> 00:21:50,240
+that this was going to be as foundational as it was and lead to the Nobel Prize and other
+
+162
+00:21:50,240 --> 00:21:55,600
+career milestones you've had? Yeah, after the fact. I mean, sure. So it started out as
+
+163
+00:21:57,680 --> 00:22:04,400
+we as a very, from my point of view, a very theoretical investigation. I wanted to get a
+
+164
+00:22:04,400 --> 00:22:12,320
+thesis project. And this was putting together those ideas that I mentioned about the renormalization
+
+165
+00:22:12,320 --> 00:22:18,880
+group with that is study, which enabled you to study the behavior of theories at very high energies
+
+166
+00:22:18,880 --> 00:22:32,720
+and short distances in a precise mathematical way. With new kinds of theories, so called gauge
+
+167
+00:22:32,720 --> 00:22:44,080
+theories, which opened up possibilities for fundamental interactions that were previously
+
+168
+00:22:45,360 --> 00:22:58,320
+undreamed of. So the the best established theories of physics were and are in some sense still
+
+169
+00:22:58,320 --> 00:23:05,680
+the paradigms of what's called quantum electrodynamics, which is electricity and
+
+170
+00:23:05,680 --> 00:23:14,320
+magnetism merged with quantum theory and the general theory of relativity, which is both
+
+171
+00:23:14,320 --> 00:23:22,320
+of theories that have somewhat similar mathematical structures with high symmetry. And what happened
+
+172
+00:23:22,320 --> 00:23:38,480
+in the late 60s and very early 70s, just before we did this work was that people constructed a
+
+173
+00:23:38,480 --> 00:23:47,200
+generalization of electrodynamics and they sort of combined some ideas from electrodynamics and
+
+174
+00:23:47,200 --> 00:23:55,760
+general relativity into something called non-abelian gauge theories. And these were already
+
+175
+00:23:57,440 --> 00:24:05,520
+leading to a successful theory of what's called the weak interaction. So it wasn't clear how
+
+176
+00:24:05,520 --> 00:24:09,840
+successful it was going to be, but it appeared very promising at that time. And
+
+177
+00:24:09,840 --> 00:24:19,040
+there's something called the Landau ghost problem, which was a sort of disease of
+
+178
+00:24:19,920 --> 00:24:24,720
+electrodynamics and also in another way of general relativity. If you really
+
+179
+00:24:25,680 --> 00:24:31,920
+push the theory to very high energies or short distances, it would break down. The equations
+
+180
+00:24:31,920 --> 00:24:37,360
+would just become infinity equals infinity, nonsense, nonsense. And so
+
+181
+00:24:37,360 --> 00:24:47,360
+really inconsistency. You start the theory by assuming that there are concentrations of charges
+
+182
+00:24:47,360 --> 00:24:52,400
+at points in the, that's when electrons are concentrations of charges at points.
+
+183
+00:24:53,600 --> 00:24:58,000
+But then when you calculate the theory, you find that the charges
+
+184
+00:24:58,000 --> 00:25:07,920
+get canceled by effects of quantum fluctuations. So the theory kind of destroyed itself
+
+185
+00:25:09,600 --> 00:25:22,240
+conceptually. It worked, but only because you could sort of wall off this problem and not just,
+
+186
+00:25:22,240 --> 00:25:30,160
+if you refused to look, you swept it under the rug. But I wanted to see if you could do better in
+
+187
+00:25:30,160 --> 00:25:36,960
+these new kinds of theories, whether they would behave better. So that was the actual calculation
+
+188
+00:25:36,960 --> 00:25:46,560
+using these new techniques to describe new kinds of theories. And then the result was that the
+
+189
+00:25:46,560 --> 00:25:52,880
+theoretical problem did not appear in these theories. So that was a very, very profound
+
+190
+00:25:54,480 --> 00:26:01,440
+fact that made these theories seem really basic to our understanding of the world, potentially.
+
+191
+00:26:02,480 --> 00:26:10,000
+But I think that's the way that we can do it. And I think that's the way that we can do it.
+
+192
+00:26:10,000 --> 00:26:17,840
+That made these theories seem really basic to our understanding of the world potentially. And then
+
+193
+00:26:17,840 --> 00:26:23,040
+there were much more concrete issues with what's called the strong interaction, where there are
+
+194
+00:26:23,040 --> 00:26:30,640
+actual experiments that indicated that instead of the interaction getting more singular at short
+
+195
+00:26:30,640 --> 00:26:37,440
+distances, it kind of turned off at short distances when people took pictures of how things behave at
+
+196
+00:26:37,440 --> 00:26:46,560
+high energies. With a lot of image processing and theoretical insight, you can interpret these
+
+197
+00:26:46,560 --> 00:26:53,600
+experiments as saying that in fact, the interactions were getting weaker. So this was from a completely
+
+198
+00:26:53,600 --> 00:27:04,960
+different, much more empirical direction, an indication that you wanted a theory based on
+
+199
+00:27:04,960 --> 00:27:12,160
+these new classes of theories to describe the strong interaction. And David was very much coming
+
+200
+00:27:12,160 --> 00:27:17,040
+at it from that angle. He wanted to show to get a theory of the strong interaction. Well, actually,
+
+201
+00:27:17,040 --> 00:27:22,000
+what he wanted to do was show that it was not possible to get a theory of the strong interaction.
+
+202
+00:27:22,000 --> 00:27:22,800
+Oh, interesting.
+
+203
+00:27:22,800 --> 00:27:31,360
+Yes. So he was anticipating a negative result, but we got the positive result. And that
+
+204
+00:27:31,360 --> 00:27:42,960
+was a breakthrough. And so it was possible to think that after all, you could make a theory based on
+
+205
+00:27:42,960 --> 00:27:49,760
+standard principles of relativity and quantum mechanics and these new kinds of highly symmetrical
+
+206
+00:27:50,400 --> 00:27:55,600
+theories that would describe the strong interaction.
+
+207
+00:27:55,600 --> 00:28:07,520
+And that's what we worked out. Enough about the implications of these ideas to make them
+
+208
+00:28:08,480 --> 00:28:16,560
+theoretically coherent and make a very specific theory and make specific predictions about how
+
+209
+00:28:17,280 --> 00:28:23,760
+the strong interaction should behave, but also how it should be interpreted. And so
+
+210
+00:28:23,760 --> 00:28:27,520
+strong interaction should behave if it actually is described by this theory,
+
+211
+00:28:28,880 --> 00:28:36,480
+which at that time, the experimental evidence was very shaky, but we could say exactly what
+
+212
+00:28:36,480 --> 00:28:46,000
+you needed to do to reach a decision. And so there was kind of circumstantial evidence,
+
+213
+00:28:46,000 --> 00:28:53,760
+and the theory was pretty, and there was no real alternative that was similarly compelling.
+
+214
+00:28:54,400 --> 00:29:02,640
+So I thought there was a fair chance, and we wrote it down, that if you take the experiments in
+
+215
+00:29:05,680 --> 00:29:10,480
+this theoretical framework at face value, this is the theory of the strong interaction. There's no
+
+216
+00:29:10,480 --> 00:29:22,240
+alternative, which was incredible because the prospect, even a few months before, of having a
+
+217
+00:29:22,240 --> 00:29:30,480
+specific, precise theory of the strong interaction after decades of frustration and resignation,
+
+218
+00:29:30,480 --> 00:29:38,480
+I think, on the part of the community was just unmindboggling. And the
+
+219
+00:29:38,480 --> 00:29:47,440
+... So when you released these results, when you released this, a paper was the product of
+
+220
+00:29:48,240 --> 00:29:50,240
+a scientific paper that was a product of this? Yeah, a series of three papers.
+
+221
+00:29:50,240 --> 00:29:54,640
+That had to be, maybe, was it nerve-racking to release that because you know so many people
+
+222
+00:29:54,640 --> 00:30:00,400
+would be paying attention to it? A little bit. Actually, very few people understood it at first.
+
+223
+00:30:00,400 --> 00:30:07,200
+I mean, it was very... The analysis of the experiments that led to this interpretation
+
+224
+00:30:07,200 --> 00:30:12,720
+was kind of involved and subtle, and the calculations were very of a new kind,
+
+225
+00:30:12,720 --> 00:30:19,760
+and they were very subtle. But a few people, they'd get it right away.
+
+226
+00:30:19,760 --> 00:30:29,840
+The other thing was that the experimental evidence was not completely clear. We made clear
+
+227
+00:30:29,840 --> 00:30:37,280
+predictions about what should happen at much higher energies, but given the available data at the time,
+
+228
+00:30:38,080 --> 00:30:46,160
+and it wasn't compelling at all. You could imagine you had to have a sort of sense of humor and a lot
+
+229
+00:30:46,160 --> 00:30:54,720
+of optimism to interpret it in the way we wanted to interpret it. But we wrote at the time that
+
+230
+00:30:54,720 --> 00:31:04,240
+this is... If you take things at face value, this is the theory. And I, right away, thought and took
+
+231
+00:31:04,240 --> 00:31:11,200
+it that, well, if you've achieved the theory of one of the main forces of nature...
+
+232
+00:31:11,200 --> 00:31:16,480
+Yes, it's probably... Yeah.
+
+233
+00:31:16,480 --> 00:31:26,320
+... and sort of achieved what was at the top of the agenda of physics for decades, really, since
+
+234
+00:31:26,320 --> 00:31:31,600
+most of the 20th century, people wanted to understand what was holding atomic nuclei together,
+
+235
+00:31:31,600 --> 00:31:38,480
+and what were these things made... What was it made out of? And so I told David, I said to David
+
+236
+00:31:38,480 --> 00:31:47,200
+at the time, if it works out, if the experiments continue to point our way, that we'll get a Nobel
+
+237
+00:31:47,200 --> 00:31:52,000
+Prize for this. And David said, now it's not the kind of work that gets a Nobel Prize. No, I realized.
+
+238
+00:31:52,000 --> 00:31:52,720
+You knew.
+
+239
+00:31:52,720 --> 00:31:53,120
+Right?
+
+240
+00:31:53,120 --> 00:31:54,160
+You knew. Yeah.
+
+241
+00:31:54,160 --> 00:32:04,160
+Well, yeah, I knew. I mean, just it wasn't... I knew... Yeah, I mean, how often do you get to
+
+242
+00:32:04,720 --> 00:32:11,040
+explain and get the fundamental description of one of the basic forces of nature? Not very often.
+
+243
+00:32:11,040 --> 00:32:13,520
+That's every once every century or two?
+
+244
+00:32:13,520 --> 00:32:18,000
+Yes. Well, there are four interactions. It's happened four times. Well, actually,
+
+245
+00:32:18,000 --> 00:32:24,480
+in the case of gravity, it actually happened twice because there was Newton's theory and then
+
+246
+00:32:25,200 --> 00:32:33,280
+Einstein's theory, which is a more refined theory, quite different. But yeah, so it doesn't happen
+
+247
+00:32:33,280 --> 00:32:34,240
+every day.
+
+248
+00:32:34,240 --> 00:32:42,480
+So when that dawns on you, does that become a weight on you for your career, that you're carrying
+
+249
+00:32:42,480 --> 00:32:45,040
+this big theory with you?
+
+250
+00:32:45,040 --> 00:32:50,560
+Well, certainly a platform, but also there's a lot of responsibility with that, right?
+
+251
+00:32:52,080 --> 00:32:57,600
+I didn't think of it that way. But it was a huge opportunity.
+
+252
+00:32:57,600 --> 00:32:58,100
+Yeah.
+
+253
+00:32:58,100 --> 00:33:16,980
+I didn't... So this breakthrough opened up many new directions. Because you could
+
+254
+00:33:18,820 --> 00:33:26,260
+understand how things behaved at very high energies and very extreme conditions, suddenly
+
+255
+00:33:26,260 --> 00:33:35,780
+you could, with confidence, make, or at least credibility, make models of the earliest moments
+
+256
+00:33:35,780 --> 00:33:45,700
+of the Big Bang. Before this breakthrough, it appeared that when things got very, very
+
+257
+00:33:45,700 --> 00:33:51,380
+close together in the Big Bang, very dense in the Big Bang, the strong interaction becomes
+
+258
+00:33:51,380 --> 00:33:57,540
+totally intractable. It was just a black... No one knew what to do. But when you learn that
+
+259
+00:33:57,540 --> 00:34:02,340
+the interactions kind of turn off and become weak, suddenly you can do it. And so that
+
+260
+00:34:02,340 --> 00:34:10,420
+opened up the very early universe and that led to important developments. It also meant
+
+261
+00:34:10,420 --> 00:34:19,780
+that you could analyze what was going to happen at high energy accelerators in much more
+
+262
+00:34:19,780 --> 00:34:30,500
+insightful and quantitative ways. So for instance, if you... Well, this only became clear years
+
+263
+00:34:30,500 --> 00:34:37,700
+later, but eventually people wanted to discover something, wanted to observe something called
+
+264
+00:34:37,700 --> 00:34:44,020
+the Higgs particle. But to figure out how you're going to produce this Higgs particle
+
+265
+00:34:44,020 --> 00:34:50,100
+and how are you going to... It's very unstable, so how are you going to detect that it ever
+
+266
+00:34:50,100 --> 00:34:57,620
+was produced? You needed a lot of control about how things behaved at high energies and how you
+
+267
+00:34:58,740 --> 00:35:06,180
+can relate the theory to experiments. So working out that kind of thing was a big deal.
+
+268
+00:35:06,180 --> 00:35:15,380
+And then the other thing is that, okay, so now we had a theory of the strong interaction,
+
+269
+00:35:15,380 --> 00:35:21,780
+weak interaction, electromagnetic and gravity, and they had kind of a similar mathematical
+
+270
+00:35:21,780 --> 00:35:27,220
+structure. Could they be unified into a bigger structure? So that was another thing. So all
+
+271
+00:35:27,220 --> 00:35:34,100
+these things, suddenly many new directions were opened up and that kept me busy for quite a while.
+
+272
+00:35:34,100 --> 00:35:39,380
+Yeah. I guess that's what I was thinking about when I said the weight of it was... I mean,
+
+273
+00:35:39,380 --> 00:35:44,980
+this creates a career for you, it creates a career for a lot of people, a lot of work to be done
+
+274
+00:35:44,980 --> 00:35:52,340
+that's still being done. And I guess I was wondering if it fell on you to organize that
+
+275
+00:35:52,340 --> 00:35:56,900
+or if the community just sort of self-governs and does that by themselves.
+
+276
+00:35:56,900 --> 00:36:00,020
+Well, I didn't think of it as a weight. I thought of it more as rocket fuel.
+
+277
+00:36:00,020 --> 00:36:07,940
+Yeah, sure, sure, sure. Yeah. Well, my glass was half empty there. No, that's great.
+
+278
+00:36:07,940 --> 00:36:14,340
+But yeah, I did feel some responsibility to live up to these opportunities, but mostly I just
+
+279
+00:36:14,340 --> 00:36:23,780
+thought of them as opportunities. The weight was, well, would it really be true?
+
+280
+00:36:24,340 --> 00:36:28,020
+Sure. Yeah. Well, you're pretty confident you have to validate, right?
+
+281
+00:36:28,020 --> 00:36:30,740
+I wasn't confident, actually. Oh, okay.
+
+282
+00:36:30,740 --> 00:36:34,660
+The data was... I mean, we
+
+283
+00:36:38,100 --> 00:36:43,540
+interpreted the data in a very bold way. The data was really kind of tentative, I would say.
+
+284
+00:36:43,540 --> 00:36:52,660
+Well, suggestive, but not definitive. And the really definitive data was almost 20 years later.
+
+285
+00:36:52,660 --> 00:36:59,380
+Yeah. So that was a weight. And then there was the weight of,
+
+286
+00:36:59,940 --> 00:37:05,300
+okay, when are we going to get a Nobel Prize? Right. So that ended up happening,
+
+287
+00:37:05,300 --> 00:37:07,460
+was it about 30 years later? Yes.
+
+288
+00:37:08,340 --> 00:37:11,140
+But it had been on your mind the entire time. I guess, from my perspective...
+
+289
+00:37:11,140 --> 00:37:16,980
+Well, yes. I mean, as I said, I thought eventually it would happen right away.
+
+290
+00:37:16,980 --> 00:37:23,780
+But I thought as soon as it became clear that the theory was correct, then it would be very quick
+
+291
+00:37:23,780 --> 00:37:35,540
+to get the prize. But that was unrealistic now, in retrospect, for two reasons. One is that
+
+292
+00:37:36,820 --> 00:37:41,940
+the downside of having a very precise theory is that the tests have to be made.
+
+293
+00:37:41,940 --> 00:37:43,460
+Yeah. Because the
+
+294
+00:37:43,460 --> 00:37:48,740
+Nobel Prize committees are very conservative. They don't want to give the prize for something
+
+295
+00:37:48,740 --> 00:37:50,820
+that's later proved to be incorrect. Sure.
+
+296
+00:37:50,820 --> 00:37:57,700
+So weight on the tests, that was one thing. And then the other thing was our work was based on
+
+297
+00:38:00,980 --> 00:38:10,500
+both experimental and theoretical work by others that was founded by the Nobel Prize committee.
+
+298
+00:38:10,500 --> 00:38:26,900
+And we were sort of... There was a kind of queue. So they had to get theirs first, logically.
+
+299
+00:38:28,100 --> 00:38:32,500
+That makes sense. Yeah. I just thought... I guess,
+
+300
+00:38:32,500 --> 00:38:41,780
+and then by 2004, I'm trying to think. For something that happened 30 years prior,
+
+301
+00:38:42,660 --> 00:38:50,500
+does that almost feel like that was a lifetime ago when the award comes? I mean, sort of...
+
+302
+00:38:50,500 --> 00:38:55,940
+Well, sort of. Yeah. It was a long time ago. It was quite a while ago, and a lot had happened
+
+303
+00:38:55,940 --> 00:38:59,620
+since then. Yeah. It makes me think of Paul
+
+304
+00:38:59,620 --> 00:39:03,860
+McCartney talks about his life as a beetle. And he says that just seems like someone else's
+
+305
+00:39:03,860 --> 00:39:07,780
+life almost, because that's a much bigger time gap for him.
+
+306
+00:39:08,820 --> 00:39:12,500
+Yeah. Well, it's also a much different experience. Yeah. Very different. Yeah.
+
+307
+00:39:13,700 --> 00:39:20,420
+Different rocket fuel. So although the Nobel Prize came later,
+
+308
+00:39:23,780 --> 00:39:29,380
+within the physics community, and I've gotten tenure at a great place and was
+
+309
+00:39:29,380 --> 00:39:38,980
+where I've gotten a lot of recognition within the community now. And myself, I felt I had,
+
+310
+00:39:42,740 --> 00:39:51,940
+maybe not perfectly, but I had really advanced. I had exploited a lot of the opportunities
+
+311
+00:39:51,940 --> 00:40:02,180
+that were there, and I really done my bit. So it wasn't... And because the work kind of...
+
+312
+00:40:03,220 --> 00:40:11,140
+A lot of the work I did later grew out, grew naturally out of that development. I still
+
+313
+00:40:11,140 --> 00:40:23,140
+felt connected to it. And more than that, a vast community effort had gone into making,
+
+314
+00:40:23,700 --> 00:40:32,420
+exploiting these things, especially for analyzing what's going to happen at accelerators.
+
+315
+00:40:32,420 --> 00:40:41,380
+And so a lot of work in both theory and experiment. The calculations could be done
+
+316
+00:40:41,380 --> 00:40:50,740
+much more accurately than we did and carried much further. The whole way of doing experimental
+
+317
+00:40:50,740 --> 00:41:00,420
+high energy physics changed because suddenly quarks and gluons were real things. And you could
+
+318
+00:41:00,420 --> 00:41:12,100
+sort of see them in what are called jets. So the focus turned towards analyzing properties of
+
+319
+00:41:12,660 --> 00:41:17,780
+jets. It was just a different world. So people knew what they were doing, in other words.
+
+320
+00:41:17,780 --> 00:41:18,260
+Sure, sure.
+
+321
+00:41:18,260 --> 00:41:33,780
+And had to readjust a lot of the technology to exploit this way of doing things. So from being
+
+322
+00:41:34,580 --> 00:41:41,620
+a kind of guerrilla warfare with a small band of people outside the mainstream,
+
+323
+00:41:41,620 --> 00:41:48,260
+which was what we were initially, it became absolutely armies of people pushing this forward.
+
+324
+00:41:51,460 --> 00:42:06,420
+And so living through that whole process, there was a connection, even though the time was...
+
+325
+00:42:06,420 --> 00:42:14,500
+There was a lot of time. It's not as if it was a dream that passed and then you wake up
+
+326
+00:42:14,500 --> 00:42:17,220
+and it's a different world. Not like Rip Van Winkle where you're sitting.
+
+327
+00:42:17,220 --> 00:42:33,060
+Sure, sure. Yeah. Makes sense. So you get the call in 2004. What's that process like? What happens
+
+328
+00:42:33,060 --> 00:42:36,100
+when you go into Stockholm?
+
+329
+00:42:36,100 --> 00:42:47,540
+Well, okay. So starting with the call, as I said, from very early on, I thought it was likely that
+
+330
+00:42:47,540 --> 00:42:57,780
+we'd get a prize for this eventually, but there was a queue and I thought we might jump the queue,
+
+331
+00:42:57,780 --> 00:43:09,620
+but it didn't happen. But the people in front of us in the line, so to speak, had been served by
+
+332
+00:43:09,620 --> 00:43:22,020
+2000. So at that point I thought, okay, any year now it's going to happen. And so I knew when the
+
+333
+00:43:22,020 --> 00:43:29,300
+announcements would be each year, and it's a very specific time when they make the public announcement.
+
+334
+00:43:30,580 --> 00:43:35,220
+Actually, the way they phrase it is not before, but usually that means at the time. So unless
+
+335
+00:43:35,220 --> 00:43:43,220
+there's some kind of dispute or a last minute change of heart, they... No sooner means that's
+
+336
+00:43:43,220 --> 00:43:54,500
+when they announce it. Okay. So we knew that it would be announced at 12 noon Stockholm time,
+
+337
+00:43:54,500 --> 00:44:05,460
+which is 6 a.m. on the East Coast, which is where it was, in Cambridge, in fact.
+
+338
+00:44:05,460 --> 00:44:17,140
+And so I had a very difficult time sleeping because I knew I'm anticipating this possibility.
+
+339
+00:44:17,860 --> 00:44:26,420
+And on that night, which was, I guess, I don't know, we're talking about October 4th, 2004,
+
+340
+00:44:26,420 --> 00:44:39,380
+I wasn't able to sleep. And so about five o'clock after a restless night, I looked up at our
+
+341
+00:44:41,620 --> 00:44:49,860
+little bedside clock with the red LED lights and it said five o'clock. Okay. So I said,
+
+342
+00:44:49,860 --> 00:44:57,220
+all right, well, if the call comes at six, you're not sleeping, Frank. You might as well get up,
+
+343
+00:44:57,220 --> 00:45:08,260
+take a shower, and you'll be ready. Okay. So I got into the shower. And just as I was
+
+344
+00:45:09,220 --> 00:45:17,860
+beginning the shower, five minutes into it, Betsy came by, knocked on the door, and came in with our
+
+345
+00:45:17,860 --> 00:45:26,420
+mobile phone and said, I hadn't heard the phone call. She came in with the phone and said,
+
+346
+00:45:28,260 --> 00:45:36,900
+Frank, there's a call for you. Someone said, with an accent, says they're calling from Sweden
+
+347
+00:45:36,900 --> 00:45:43,140
+and they want to talk to you. I think you should take this call. And so I got out of the shower
+
+348
+00:45:43,140 --> 00:45:48,660
+and I took the call right away. I didn't draw you off or anything. It was something wet. And
+
+349
+00:45:49,860 --> 00:45:58,740
+yet that was it. It was not. So what I didn't know was that when they know what's going to happen,
+
+350
+00:45:58,740 --> 00:46:07,700
+they called earlier. And so that was it. And the other thing I didn't know was that
+
+351
+00:46:07,700 --> 00:46:17,700
+my anticipation was that the phone call would be, congratulations, you won the Nobel Prize.
+
+352
+00:46:17,700 --> 00:46:24,340
+Goodbye. But it wasn't that way at all. There were several people from Sweden, friends who wanted to
+
+353
+00:46:24,340 --> 00:46:29,620
+congratulate and other people who wanted to give instructions for how to deal with the press and so
+
+354
+00:46:29,620 --> 00:46:34,740
+and what you should not do and all of the details it was going to happen. So I was just
+
+355
+00:46:34,740 --> 00:46:40,260
+I was there soaking wet, dripping wet and listening to this for about 20 minutes.
+
+356
+00:46:42,260 --> 00:46:47,220
+So that was the initial experience. I thought I wouldn't go to process any of the instructions
+
+357
+00:46:47,220 --> 00:46:55,700
+that were being given to me on that call. But then I wanted to call my parents right away
+
+358
+00:46:55,700 --> 00:47:02,500
+because they're very important to them, I think. And I did right away. So I'll add to that.
+
+359
+00:47:02,500 --> 00:47:11,060
+That was probably five thirty. And my father answered the phone and he was really furious.
+
+360
+00:47:11,060 --> 00:47:17,700
+He said, what do you know what time it is? Whatever you're selling, I don't want any.
+
+361
+00:47:17,700 --> 00:47:23,140
+And if you call again, I'm going to report you. I said, no, no, no, it's your son.
+
+362
+00:47:24,660 --> 00:47:31,060
+And so that was a very special moment also. And then, OK, so then I was like,
+
+363
+00:47:31,060 --> 00:47:38,980
+then OK, so then I dried off and got dressed and six o'clock the announcement was made.
+
+364
+00:47:38,980 --> 00:47:44,500
+And right away there were phones was ringing off the hook and eventually we just took it off.
+
+365
+00:47:45,380 --> 00:47:56,980
+And and there was an AP stringer who knocked on our door and it was so it was it was a lot of fun.
+
+366
+00:47:56,980 --> 00:48:04,820
+Yeah, it was very and then there's a whirlwind of things. And then the press press conference and so
+
+367
+00:48:06,900 --> 00:48:14,500
+and you have to get clothes. Yeah. And it's a great party. So you get to talk and yeah.
+
+368
+00:48:14,500 --> 00:48:19,700
+Yeah. So it's a weak law. And another thing I didn't realize is that is what the nature of
+
+369
+00:48:19,700 --> 00:48:29,700
+the actual process is where you get the point is not just a kind of evening event.
+
+370
+00:48:29,700 --> 00:48:38,260
+It's a complete a whole week of one extraordinary event after another. You have dinner with the king.
+
+371
+00:48:38,260 --> 00:48:48,260
+You have the great dinner in the city hall with thousands of people and very elaborate service.
+
+372
+00:48:48,260 --> 00:48:53,860
+Singing and dancing. What was your favorite part?
+
+373
+00:48:56,340 --> 00:49:05,220
+I think my favorite part was after the dinner. This is the dinner of the king or no, the dinner
+
+374
+00:49:05,220 --> 00:49:13,220
+in city hall. See, OK, there's this there's music and dancing wait until the night. I like that.
+
+375
+00:49:13,220 --> 00:49:20,260
+I like that. It's a beautiful place and lots of happy people. Yeah. And everybody's I should have
+
+376
+00:49:20,260 --> 00:49:29,620
+said another aspect of it is everyone's dressed up and kind of 19th century academic costume
+
+377
+00:49:29,620 --> 00:49:36,020
+with a white tie, not black tie, white tie. And the women are in gorgeous gowns. And so.
+
+378
+00:49:36,020 --> 00:49:39,860
+So yeah, that sounds like out of a dream. It is. It's like a fairy tale.
+
+379
+00:49:39,860 --> 00:49:47,460
+Very much like. And so you get, you know, a medal and I think a custom painted
+
+380
+00:49:48,100 --> 00:49:52,260
+diploma. Diploma. Right. Yeah. And each one is different. Yeah.
+
+381
+00:49:53,540 --> 00:49:59,780
+I have a very silly question for you about that. So you receive this stuff at these ceremonies.
+
+382
+00:50:01,220 --> 00:50:06,100
+Do you just put that in your luggage and fly with it home or is it somehow like
+
+383
+00:50:06,100 --> 00:50:11,700
+specially couriered back to your home? Like that's obviously like a very historic.
+
+384
+00:50:11,700 --> 00:50:15,140
+Those are very historic things that you're receiving. Like how does that work?
+
+385
+00:50:16,820 --> 00:50:20,180
+It's a lot of good. Yeah, I just put it like that.
+
+386
+00:50:20,180 --> 00:50:26,580
+I was I was I was wondering that because we did the the Templeton Prize ceremony in 22.
+
+387
+00:50:27,380 --> 00:50:31,460
+And I remember you I think you flew to Sweden right after it. And I remember it was like you
+
+388
+00:50:31,460 --> 00:50:36,340
+get this beautiful diploma from them as well. And then I remember we left and it was just like
+
+389
+00:50:36,340 --> 00:50:41,940
+cardboard and masking tape around it to carry it back. And I thought how else would I was I
+
+390
+00:50:41,940 --> 00:50:47,620
+don't know if I was expecting it to be true. I brought it. I brought it back on Amtrak.
+
+391
+00:50:47,620 --> 00:50:50,820
+You brought it back. I brought it back on the Amtrak train and I put it in my car.
+
+392
+00:50:50,820 --> 00:50:52,900
+All right. Yeah. We framed it. Yeah.
+
+393
+00:50:54,260 --> 00:51:00,820
+Yeah. Sure. I was like I was like why do they trust me? I didn't know if it was like the Stanley
+
+394
+00:51:00,820 --> 00:51:04,660
+Cup where they have the guys in white gloves like bringing around an armory cars or what.
+
+395
+00:51:05,620 --> 00:51:10,020
+OK. Thank you for answering my very very silly question. But I had as a middle
+
+396
+00:51:10,020 --> 00:51:20,740
+aged suburban dad I had to know. So I wanted to ask you also later in your career you've had
+
+397
+00:51:21,380 --> 00:51:26,020
+I think two names stand out to me. Axions and time crystals. Two of the cooler names.
+
+398
+00:51:26,020 --> 00:51:30,980
+Well also any and any on how do you how do you name things.
+
+399
+00:51:31,940 --> 00:51:37,460
+Well each one is a different story. So.
+
+400
+00:51:40,740 --> 00:51:51,460
+Axions were. It's probably the most interesting story. When I was still in college.
+
+401
+00:51:51,460 --> 00:52:03,460
+I was home for the summer and went on a grocery shopping expedition with my mother and saw on
+
+402
+00:52:05,460 --> 00:52:16,580
+on the shelf a detergent laundry detergent named Axion. And I said to myself wow that
+
+403
+00:52:16,580 --> 00:52:22,020
+wow that really sounds like a particle. I was like you know there's protons and muons and pions
+
+404
+00:52:22,020 --> 00:52:30,660
+and this Axion. It's a nice weak root. And I said to myself if I ever get a chance to name a particle
+
+405
+00:52:32,020 --> 00:52:38,500
+call it Axion. And a few years later it was just a few years. Yeah. There's like four or five years
+
+406
+00:52:38,500 --> 00:52:47,300
+later there was a problem with an axial current and a new kind of particle that arises in
+
+407
+00:52:48,340 --> 00:52:53,380
+in that connection. I mean that's not the most important aspect of it but part of it was enough
+
+408
+00:52:53,380 --> 00:53:03,220
+to do. There's enough of an excuse to actually call it Axion. That's cool. Yeah. So I did that.
+
+409
+00:53:03,220 --> 00:53:10,420
+And that would mean the crucial part was getting it past the editors of physical review letters
+
+410
+00:53:10,420 --> 00:53:16,580
+where we published it because if they had known that I was naming it after a laundry detergent
+
+411
+00:53:16,580 --> 00:53:21,620
+that would never be wild. Yeah. They're very conservative about these things. Yeah. So I was
+
+412
+00:53:21,620 --> 00:53:26,100
+very fortunate that I could drag in the axial current and say oh that's what that's what I was
+
+413
+00:53:26,100 --> 00:53:39,060
+named after. Named after the axial current. Yeah. So that was that one. Then
+
+414
+00:53:42,420 --> 00:53:50,660
+anyons was in a way the most straightforward. For many years people physicists had thought that
+
+415
+00:53:50,660 --> 00:53:58,020
+all particles could be divided into two kingdoms. Fermions and bosons they're called which have
+
+416
+00:53:58,820 --> 00:54:04,660
+quite different properties. Let me let me backtrack one second. One of the great achievements of
+
+417
+00:54:04,660 --> 00:54:14,180
+quantum theory is to show that very different concepts of what a particle is. So there's a wave
+
+418
+00:54:14,180 --> 00:54:23,860
+there's a wave aspect and a particle aspect that actually in quantum mechanics there's a more
+
+419
+00:54:23,860 --> 00:54:30,420
+general description that has both aspects. So it's neither a wave nor a particle but we sometimes
+
+420
+00:54:30,420 --> 00:54:41,940
+people call it a wave, waveical or that that is unites all entities all physical entities can be
+
+421
+00:54:41,940 --> 00:54:47,540
+described in this very general way. So things as different as electrons and photons which seem to
+
+422
+00:54:47,540 --> 00:54:54,420
+be so different in their properties can both be described using waveicals as people's.
+
+423
+00:54:56,740 --> 00:55:03,220
+But so that's a great unification but when you come to describe not single particles but
+
+424
+00:55:04,020 --> 00:55:11,860
+more than one like two or more then they're very different and there are two classes there are
+
+425
+00:55:11,860 --> 00:55:19,140
+bosons which basically like to do the same thing and there are fermions that dislike doing the same
+
+426
+00:55:19,140 --> 00:55:27,940
+thing. The dislike is the the liking to do the same thing is maybe most dramatically illustrated
+
+427
+00:55:27,940 --> 00:55:33,380
+in a laser where you see you have lots of photons that all want to be in the same color moving in
+
+428
+00:55:33,380 --> 00:55:42,420
+the same direction and the disliking doing the same thing for a fermion which electrons are an
+
+429
+00:55:42,420 --> 00:55:49,460
+example is what makes the periodic table work atoms build up with different states different
+
+430
+00:55:49,460 --> 00:55:58,260
+energy levels for the different electrons and many other phenomena. And for many years people
+
+431
+00:55:58,260 --> 00:56:05,860
+thought though those were the only two possibilities and I was not happy with the proofs that I had
+
+432
+00:56:05,860 --> 00:56:16,660
+read but it was in the back of my mind that there was there was not a holes in the argument and
+
+433
+00:56:19,220 --> 00:56:22,340
+by a kind of circuitous path I was led to
+
+434
+00:56:22,340 --> 00:56:28,580
+think that if you had particles not in three dimensions but in two dimensions
+
+435
+00:56:29,380 --> 00:56:34,420
+they wouldn't necessarily be particle either fermions or bosons that there are more general
+
+436
+00:56:34,420 --> 00:56:40,420
+possibilities and that's and then closer analysis shows that that that's the case.
+
+437
+00:56:42,180 --> 00:56:50,580
+So in the mathematical formulation when you have bosons there's a positive and a negative
+
+438
+00:56:50,580 --> 00:56:57,220
+bosons there's a plus sign in the wave function when there's fermions that's a minus sign
+
+439
+00:56:58,100 --> 00:57:04,820
+when you have any but when but there are other possibilities that involve complex numbers
+
+440
+00:57:05,860 --> 00:57:14,580
+that kind of interpolate between one and minus one technically it's phases or complex numbers
+
+441
+00:57:14,580 --> 00:57:22,580
+with magnitude unity any any of them. So since you can have any of these things in a continuous
+
+442
+00:57:22,580 --> 00:57:33,780
+range I call them anyons and that was accepted and they become a very very big topic since then.
+
+443
+00:57:34,980 --> 00:57:40,100
+At first I mean in the early days was kind of playful but it's become very
+
+444
+00:57:40,100 --> 00:57:51,620
+very serious as a possible technology for quantum information processing and quantum computers
+
+445
+00:57:52,260 --> 00:58:02,660
+and just describing what happens in two dimensions. So that's anyons time crystals actually is
+
+446
+00:58:02,660 --> 00:58:14,980
+is something that my wife Betsy who you know is largely responsible for.
+
+447
+00:58:18,340 --> 00:58:19,460
+I was
+
+448
+00:58:19,460 --> 00:58:32,580
+thinking about how you might have states of matter or physical systems that behave
+
+449
+00:58:32,580 --> 00:58:44,340
+that naturally organize themselves into periodic structures in time. So crystals are
+
+450
+00:58:44,340 --> 00:58:50,740
+periodic structures in space but this would be things that spontaneously form periodic structures
+
+451
+00:58:50,740 --> 00:59:00,820
+in time. And this was actually when we were walking when I was walking across England was
+
+452
+00:59:00,820 --> 00:59:08,820
+when I was thinking about this and Betsy was driving us a meeting into sort of the camp manager
+
+453
+00:59:08,820 --> 00:59:14,660
+and so but we had lots of time as we talked about it and she asked me to explain it and I
+
+454
+00:59:17,940 --> 00:59:24,980
+told her it's reaching for analogies and I said it's like a crystal but in time instead of space.
+
+455
+00:59:26,100 --> 00:59:35,220
+And she said it's like a crystal but in time instead of space. And I said I'm sorry I'm sorry
+
+456
+00:59:35,220 --> 00:59:43,380
+and I said it's like a crystal but in time instead of space. And she asked me what I was
+
+457
+00:59:43,380 --> 00:59:48,900
+what I called it and I said well I call it spontaneous breaking of time translation symmetry.
+
+458
+00:59:50,100 --> 00:59:59,860
+Very remarkable. No no no no no no no no you you it's a time crystal and that
+
+459
+00:59:59,860 --> 01:00:08,180
+and she really insisted on it. I had misgivings about it I thought it was kind of too showy or too.
+
+460
+01:00:09,220 --> 01:00:15,060
+Well it made it into Avengers Endgame so. Yeah it made a but it was a great it turned out to be a
+
+461
+01:00:15,060 --> 01:00:20,340
+great thing to call it time because it really caught the imagination of the public but also
+
+462
+01:00:20,340 --> 01:00:27,540
+of scientists. A great name is really really important. Yeah I've learned. Does that does
+
+463
+01:00:27,540 --> 01:00:32,180
+that help you even with like does it move you up in experimental cues or anything
+
+464
+01:00:32,980 --> 01:00:38,980
+to have something that becomes that popular. Absolutely yeah yeah absolutely people it's it's
+
+465
+01:00:40,500 --> 01:00:44,580
+having a name for something
+
+466
+01:00:47,540 --> 01:00:55,140
+can really focus attention on so people experimenters can say what they're doing.
+
+467
+01:00:55,140 --> 01:01:00,900
+I'm making a time crystal. Yeah. Or I'm looking for any odds I'm looking for axions.
+
+468
+01:01:02,020 --> 01:01:08,260
+Whereas if you didn't have the name you'd have to go through a long long and dance about what it is.
+
+469
+01:01:09,140 --> 01:01:14,500
+And different people doing similar things wouldn't have a common language and yeah so
+
+470
+01:01:16,180 --> 01:01:20,740
+names are really really important. Yeah. And also
+
+471
+01:01:20,740 --> 01:01:25,940
+how should I say when you've named something you've real you've
+
+472
+01:01:27,780 --> 01:01:33,860
+taken your concept you have to refine the concept. Tell us you know define it. What what are you
+
+473
+01:01:33,860 --> 01:01:43,620
+talking about. And that is a very important discipline to be able to say damn it this is
+
+474
+01:01:43,620 --> 01:01:52,820
+what I'm talking about. This this word encapsulates this captures some years of thought. Yeah yeah.
+
+475
+01:01:52,820 --> 01:02:06,980
+And and actually in all those cases when I named the thing I realized a lot but
+
+476
+01:02:06,980 --> 01:02:13,220
+it's grown into something later it grew each of these things has grown into something much larger
+
+477
+01:02:13,220 --> 01:02:20,340
+in many directions that I didn't anticipate. Yeah. But well did you firstly to have the name
+
+478
+01:02:20,340 --> 01:02:27,620
+because you know I got the paper still get keep getting quoted and it sort of attaches to me as
+
+479
+01:02:27,620 --> 01:02:34,660
+the founding father of this even though it's stuff now that is very very very very very very
+
+480
+01:02:34,660 --> 01:02:37,220
+even though it's stuff now that is very very
+
+481
+01:02:40,100 --> 01:02:45,220
+remotely related tenuously related to the initial conceptions. Yeah I mean like when
+
+482
+01:02:45,220 --> 01:02:51,620
+with any with any on did you envision quantum computing. Absolutely not no absolutely not no
+
+483
+01:02:51,620 --> 01:02:58,020
+it's just it but it's sort of like in the in the case of asymptotic freedom and quantum
+
+484
+01:02:58,020 --> 01:03:10,420
+chromodynamics I realized that it was a very very fundamental expansion of our understanding of the
+
+485
+01:03:10,420 --> 01:03:23,300
+physical world. So it would lead it could lead in really important directions was really foundational
+
+486
+01:03:23,300 --> 01:03:29,380
+you know so it wasn't just adding a brick here it was adding that it was changing the foundations
+
+487
+01:03:29,380 --> 01:03:36,100
+and so I although I didn't anticipate all these developments I'm not shocked that there have been
+
+488
+01:03:36,100 --> 01:03:44,740
+major developments coming out. Sure. That makes sense. I have I have two more questions for you
+
+489
+01:03:45,300 --> 01:03:49,940
+one is pretty quick and the other one I will let you dictate how much time you'd like to spend on
+
+490
+01:03:49,940 --> 01:03:57,860
+it. I want to say it's a really fun tradition for me it's been the last 10 years we go to an NBA
+
+491
+01:03:57,860 --> 01:04:04,100
+game every year. Yes. First one was in Miami and we saw LeBron and Chris Bosch Dwayne Wade.
+
+492
+01:04:05,220 --> 01:04:10,820
+This year we typically I know you're a big LeBron fan and we typically try to go see him
+
+493
+01:04:11,940 --> 01:04:18,660
+but this year at the scheduling workouts we saw Minnesota come. Yes. Who are you watching and
+
+494
+01:04:18,660 --> 01:04:23,940
+liking in the playoffs this year when we're in the conference final season. Yeah. Who are who's your
+
+495
+01:04:23,940 --> 01:04:30,820
+favorite. Well I think I'd better say Boston. That's that's Boston. Boston's an interesting
+
+496
+01:04:30,820 --> 01:04:40,100
+I like Boston because they kind of distributed there. They're a real team. I mean they have
+
+497
+01:04:40,100 --> 01:04:50,820
+stars but they're not dominated by a single star. Yeah. Tate and Brown and White and so and
+
+498
+01:04:53,620 --> 01:04:58,500
+even Al Horford plays you know all these guys play play roles and they're all important so that
+
+499
+01:04:58,500 --> 01:05:10,580
+that's nice. Of course I was rooting for the L.A. Lakers but they didn't come through and I also but
+
+500
+01:05:10,580 --> 01:05:19,060
+I like Denver. Yeah. Also for two reasons because I really think Yokech is so cool and so singular
+
+501
+01:05:19,940 --> 01:05:24,100
+his kind of approach to the game and just the effortlessness where he tosses in these
+
+502
+01:05:24,100 --> 01:05:29,620
+floaters. Yeah. He seems to be playing a different game and he's like a man among boys sometimes.
+
+503
+01:05:29,620 --> 01:05:37,780
+Yeah. He's so fundamentally skilled. Yes. It's really impressive to watch him. Yeah. And and
+
+504
+01:05:39,300 --> 01:05:47,780
+and you know that I've really been impressed by how after losing two games at home and looking
+
+505
+01:05:47,780 --> 01:05:56,180
+really bad they came back. So now it's it's not clear how it's going to end but they showed a lot
+
+506
+01:05:56,180 --> 01:06:02,820
+of character I think. Yeah. In coming back that way. So I and so also you know since they are the
+
+507
+01:06:02,820 --> 01:06:10,580
+team that beat the Lakers I'm kind of saying well you know if if they wouldn't go on to win the
+
+508
+01:06:10,580 --> 01:06:15,460
+championship that means that the Lakers lost to the champs. Yeah. They could be the second best.
+
+509
+01:06:15,460 --> 01:06:19,380
+They could be the second best. Yeah. I've always I've always felt that when my team loses in the
+
+510
+01:06:19,380 --> 01:06:26,100
+playoffs too. I'll say that I really enjoy it. We sat in the section that was kind of behind the
+
+511
+01:06:26,100 --> 01:06:32,260
+Minnesota bench. We went to that game this year and the joy that they had and like that team was
+
+512
+01:06:32,260 --> 01:06:37,140
+just a lot of fun. They're a team. And I they that's a team I never really thought about but
+
+513
+01:06:37,140 --> 01:06:40,820
+now I actually really like a lot just because of that experience. Yeah. So there are a lot of
+
+514
+01:06:40,820 --> 01:06:47,300
+teams to like in the in the you know all the you know all the teams really that are that are still
+
+515
+01:06:47,300 --> 01:06:56,340
+in the playoffs plus the plus other ones that they all have. I mean it's the whole well there
+
+516
+01:06:56,340 --> 01:07:00,100
+are some there are some teams that are very sour obviously you know these are things where
+
+517
+01:07:00,660 --> 01:07:05,380
+they had great expectations that weren't fulfilled and stars that kind of didn't come through or
+
+518
+01:07:05,380 --> 01:07:12,500
+injured or whatever. And that leaves a bad taste. But among but mostly it's a wonderful kind of
+
+519
+01:07:12,500 --> 01:07:20,660
+human enterprise to see people cooperating to try to do something remarkable. Yeah. They put an
+
+520
+01:07:20,660 --> 01:07:26,660
+enormous effort. They're incredibly skilled and gifted and you know like another species in many
+
+521
+01:07:26,660 --> 01:07:39,220
+ways. And and they're how should I say they've they've devoted themselves to to something bigger
+
+522
+01:07:39,220 --> 01:07:48,340
+than themselves. So you might say it's it's it's just a game and not serious and so but but you
+
+523
+01:07:48,340 --> 01:07:55,460
+know it's it's you could say similar things about astronomy or art or things that people think of as
+
+524
+01:07:55,460 --> 01:08:06,020
+as the ultimate human expression. People get very very good at something and put on a great show.
+
+525
+01:08:07,380 --> 01:08:11,780
+And it's wonderful to see. It's a good healthy way to take people who are naturally hyper
+
+526
+01:08:11,780 --> 01:08:19,780
+competitive and put that to use. Yeah. Yeah. That's a question. Is the world of theoretical
+
+527
+01:08:19,780 --> 01:08:25,540
+physics ever competitive. It's always always competitive. Yeah. You're always I mean to me
+
+528
+01:08:25,540 --> 01:08:32,100
+it sounds like always on top of what's going on always pushing things further faster and trying
+
+529
+01:08:32,100 --> 01:08:38,900
+to beat anyone else to the punch. Yeah. Yeah. And there's also a sort of defending territory. Sure.
+
+530
+01:08:38,900 --> 01:08:51,860
+Sure. But it's all how should I say it's it's much more sublimated than in sports where there's a
+
+531
+01:08:51,860 --> 01:09:05,140
+score and it's and and mostly it's cooperative. But you know ultimately like the Nobel Prize it's
+
+532
+01:09:05,140 --> 01:09:12,500
+it's for any particular any particular year it's given to most three people for typically one
+
+533
+01:09:13,380 --> 01:09:20,980
+development. Yeah. And so but that's not the way science works. Typically it's not
+
+534
+01:09:22,420 --> 01:09:30,420
+how should I say the prizes are digital but sure the process is analog. Many people make
+
+535
+01:09:30,420 --> 01:09:41,300
+kind of contributions at different levels and so but yeah so there's but only one guy gets the job
+
+536
+01:09:41,300 --> 01:09:48,260
+and one guy gets the prize. Right. So so inevitably that makes for competitive situations.
+
+537
+01:09:50,180 --> 01:09:57,780
+And also there's a lot of the rewards in this kind of work are ego rewards.
+
+538
+01:09:57,780 --> 01:10:03,140
+It's people can live well on professor salaries and so
+
+539
+01:10:05,620 --> 01:10:14,340
+and but they don't. But some of the people in this world are really really super brilliant
+
+540
+01:10:14,340 --> 01:10:21,460
+and could make a lot more money elsewhere. Sure. The big rewards though are freedom you get
+
+541
+01:10:21,460 --> 01:10:31,540
+it and an ego reward you feel you're doing something permanent value and beautiful.
+
+542
+01:10:32,180 --> 01:10:42,260
+It really is kind of like an art in many ways. So that's but if you're going to have ego rewards
+
+543
+01:10:42,260 --> 01:10:50,660
+then egos get wrapped up in it. Yeah. I wasn't I never I hadn't thought about that. If you ever
+
+544
+01:10:50,660 --> 01:10:57,220
+had like a star student that you were disappointed to see get lured away to finance or something that
+
+545
+01:10:58,340 --> 01:11:02,500
+maybe you thought could have followed the the academia out and done very well.
+
+546
+01:11:04,740 --> 01:11:12,980
+Yeah well yes I but yes I have had students who've done that including a couple of the very best ones
+
+547
+01:11:12,980 --> 01:11:31,460
+yeah the most promising. But I think I it's like having a child that
+
+548
+01:11:33,700 --> 01:11:41,380
+ultimately you know you can you can teach and it's hopefully inspire and show them but ultimately
+
+549
+01:11:41,380 --> 01:11:50,340
+it's their life and they choose and I think if they're happy and
+
+550
+01:11:52,420 --> 01:12:00,420
+and doing and not doing crime something destructive that's fine. I mean science
+
+551
+01:12:00,420 --> 01:12:11,700
+you know science is a big community and any individual I think is replaceable in some sense.
+
+552
+01:12:11,700 --> 01:12:18,020
+Okay some people might things might happen faster due to to some individual make an
+
+553
+01:12:18,020 --> 01:12:26,500
+outstanding contribution but even even giants like Newton and Einstein if you really analyze it
+
+554
+01:12:26,500 --> 01:12:31,220
+everything they discovered would have been discovered anyway. Sure. Maybe 10 years later.
+
+555
+01:12:31,220 --> 01:12:38,740
+Right. Well in Einstein's case maybe 10 years later at most in Newton's case
+
+556
+01:12:39,780 --> 01:12:46,500
+probably longer because it was a smaller community and must it was much less efficient but nowadays
+
+557
+01:12:46,500 --> 01:12:53,620
+with a gigantic community and very rapid communication and so forth I think
+
+558
+01:12:53,620 --> 01:13:03,860
+the contribution of any individual is not essential. You know things will have so
+
+559
+01:13:03,860 --> 01:13:07,860
+so if my student if I have a student is very promising wants to do something else
+
+560
+01:13:07,860 --> 01:13:15,380
+God bless him or her. Right. If that their passion leads elsewhere
+
+561
+01:13:15,380 --> 01:13:32,660
+insecurity elsewhere. I don't feel let down. Yeah. Okay. I think okay last question this time I promise.
+
+562
+01:13:34,900 --> 01:13:38,420
+One of one of my perspectives I think about as I'm doing this project is
+
+563
+01:13:39,220 --> 01:13:43,300
+someone 50 years from now digging up this project and listening to it.
+
+564
+01:13:43,300 --> 01:13:48,020
+Where where do you think the conqueror and the rest of the world will be in 50 years.
+
+565
+01:13:49,860 --> 01:13:56,260
+Well I'm writing a book now called futures and sort of thinking about this and it could go in
+
+566
+01:13:56,260 --> 01:14:03,220
+very different directions and there are possible catastrophes I think climate change could be
+
+567
+01:14:03,220 --> 01:14:12,340
+catastrophic certainly nuclear war could be catastrophic but I'm very optimistic actually.
+
+568
+01:14:12,340 --> 01:14:15,380
+Good. I want to hear that. If
+
+569
+01:14:18,740 --> 01:14:23,380
+you think about what the world was like say 100 years ago
+
+570
+01:14:26,740 --> 01:14:36,900
+most people lived on farms and they were famines that many people and computers were just not even
+
+571
+01:14:36,900 --> 01:14:42,740
+on the horizon and look at speculations about what life would be like at that time. It's kind
+
+572
+01:14:42,740 --> 01:14:51,780
+of pathetic. Right. What actually happened even though in that 100 years we've had two world wars
+
+573
+01:14:52,900 --> 01:14:54,180
+many smaller
+
+574
+01:14:58,980 --> 01:14:59,540
+plagues
+
+575
+01:14:59,540 --> 01:15:11,860
+and the reason that things have improved despite all that is that we understand the world a lot
+
+576
+01:15:11,860 --> 01:15:20,180
+better and technology keeps getting better and better and during the 20th century and continuing
+
+577
+01:15:20,180 --> 01:15:29,140
+to the 21st century I think we've understood what matter is and what we're going to see in the
+
+578
+01:15:29,140 --> 01:15:39,460
+future what life is and now even what mind is at levels that were just not there previously
+
+579
+01:15:40,020 --> 01:15:41,940
+and that gives us enormous power
+
+580
+01:15:48,100 --> 01:15:55,460
+and having that power most people want to do good by other people not all but enough
+
+581
+01:15:55,460 --> 01:16:02,100
+yeah and producing you know producing more wealth
+
+582
+01:16:05,060 --> 01:16:11,540
+more opportunities for expanding mind for living longer living healthier
+
+583
+01:16:16,180 --> 01:16:24,020
+the kind of tools we have now for mind expansion I think all that is very exciting very promising
+
+584
+01:16:24,020 --> 01:16:30,580
+and so that's I'm optimistic there may be bumps in the road there may be very big bumps in the road
+
+585
+01:16:30,580 --> 01:16:39,700
+and there could be catastrophes but I'd like to think not and if not then I think
+
+586
+01:16:41,780 --> 01:16:51,300
+the future of humanity and even more of mind in the universe is just awesome yeah
+
+587
+01:16:51,300 --> 01:16:56,580
+well you've been right about a lot of stuff over the years so I'm taking it I'm taking this one as
+
+588
+01:16:56,580 --> 01:17:02,180
+truth for the next 50 I appreciate that well thank you for spending so much time with me I
+
+589
+01:17:02,180 --> 01:17:21,860
+this has been great for me I hope you've enjoyed it yeah and we'll be seeing you soon okay
