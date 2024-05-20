@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+ <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<!-- Import p3sdk library -->
+ <script src="http://p3.3playmedia.com/p3sdk.1.10.7.js"></script>
+ <script src="http://p3.3playmedia.com/javascripts/vendor/Snowball.min.js"></script>
+ <script src="https://kit.fontawesome.com/8fb9a9b214.js" crossorigin="anonymous"></script>
+ <script src="js/episodes.js"></script>
+ <link rel="stylesheet" href="https://s3.amazonaws.com/www.concordstorytellers.com/css/bootstrap.min.css" />
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js" integrity="sha512-ykZ1QQr0Jy/4ZkvKuqWn4iF3lqPZyij9iRv6sGqLRdTPkY69YX6+7wvVGmsdBbiIfN/8OdsI7HABjvEok6ZopQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+ <title>Concord Storytellers</title>
+ <style type="text/css">
+  body {
+    background: linear-gradient(#fff, #ddd);
+  }
+   #img-container {
+     background: linear-gradient(#333,#789);
+     border-radius: 5px 5px 0 0;
+     text-align: center;
+     padding: 12px 0;
+   }
+   #concordstorytellers-logo {
+     max-height: 240px;
+     box-shadow: 3px 3px 3px 3px #111;
+     border-radius: 3px;
+   }
+.pod-description { font-size: 0.8em !important; }
+ .p3sdk-interactive-transcript-content {
+   height: 360px;
+   overflow-y: auto;
+   padding: 8px;
+   background: #fff;
+   border-radius: 0 0 5px 5px;
+   border: 1px solid #dfd7ca;
+   border-top: 0px;
+  }
+  .p3sdk-interactive-transcript-content span:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    cursor: hand;
+  }
+ .p3sdk-current-word {
+   background: #ffbe8a;
+ }
+ .p3sdk-interactive-transcript-progressbar {
+    display: block;
+    height: 1em;
+    cursor: pointer;
+    cursor: hand;
+ }
+
+ .p3sdk-interactive-transcript-progress{
+     display: block;
+     float: left;
+     width: 0%;
+     height: 1em;
+     background: linear-gradient(#2ca66d, #1c784d) !important;
+ }
+ .p3sdk-interactive-transcript-searchbox {
+   border: 1px solid #aaa;
+   /* font-size: 1em; */
+   width: 100%;
+   border-radius: 3px;
+   padding-left: 4px;
+ }
+ .p3sdk-interactive-transcript-search-hit {
+   background: #333;
+   color: white;
+ }
+ .p3sdk-progress-search-marker {
+   color: #fff;
+   font-weight: bold;
+   font-size: 1em;
+   line-height: 1em;
+   margin: 0;
+   padding: 0;
+ }
+ #media-info {
+   margin: 0px;
+   border: 1px solid #dfd7ca;
+   border-top: 0px;
+   padding: 4px;
+   background: linear-gradient(#fff, #ccc) !important;
+ }
+ #about-section {
+   font-size: 0.9em;
+ }
+ .tabby-list-group {
+   border-width: 0px !important;
+   border-radius: 0px 0px 5px 5px;
+ }
+ .tabby-list-group li:nth-child(0){
+   border-top: 0 none !important;
+   border-radius: 0px !important;
+ }
+ .border-top0 {
+   border-top: 0 none;
+ }
+
+ #player-progress {
+   /* font-size: 0.9em; */
+ }
+ #player-duration {
+   /* font-size: 0.9em; */
+ }
+ a.list-group-item {cursor:pointer; cursor:hand;}
+ </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+<div class="container-fluid">
+  <a class="navbar-brand" href="#">
+    <i class="fa-regular fa-seedling"></i>
+    Concord Storytellers
+  </a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav me-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="https://open.spotify.com/show/1WhF1LfUmWz1MkBNxij0tH?si=84849486163a4bf8" target="_blank">
+          <i class="fa-brands fa-spotify fa-fw"></i>
+          <span class="d-lg-none">Spotify</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://podcasts.apple.com/us/podcast/concord-storytellers/id1743227851" target="_blank">
+          <i class="fa-regular fa-podcast fa-fw"></i>
+          <span class="d-lg-none">Apple Podcasts</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://music.amazon.com/podcasts/516d0bb8-12ce-4866-a7bd-cdfc2150d675/concord-storytellers" target="_blank">
+          <i class="fa-brands fa-amazon fa-fw"></i>
+          <span class="d-lg-none">Amazon Music</span>
+        </a>
+      </li>
+    </ul>
+    <form class="d-flex">
+      <a class="btn btn-info my-2 my-sm-0" type="submit" href="https://forms.gle/tbtvsWekfaPEUp9s5" target="_blank">Submit a Story!</a>
+    </form>
+  </div>
+</div>
+</nav>
+  <div class="container-fluid">
+
+    <p></p>
+  <div class="row">
+    <div class="col-12 col-md-8">
+
+      <div class="p3sdk-container" player_id="mediaplayer" player_type="html5">
+        <div id="img-container">
+          <img class="img-fluid" id="concordstorytellers-logo" src="https://media.rss.com/concord-storytellers/20240408_110405_54aa73e65f50e6b3c18e905de8e33857.png"/>
+        </div>
+        <audio id="mediaplayer" src="https://media.rss.com/concord-storytellers/2024_04_25_15_26_55_11b42011-3e69-4439-bf28-7a1e4eb43c72.mp3"></audio>
+        <div class="p3sdk-interactive-transcript" light_scroll="true" src_type="srt" remote-src="">
+
+          <div class="row">
+            <div class="col-12">
+              <div class="p3sdk-interactive-transcript-progressbar bg-dark" search_result_marker="|">
+                <div class="p3sdk-interactive-transcript-progress bg-success"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row" id="media-info">
+            <div class="col-2 text-left">
+              <a id="play-pause" class="btn btn-sm">
+                <i class="fa-solid fa-play"></i>
+                <span class="d-none d-lg-inline">Play</span>
+              </a>
+            </div>
+            <div class="col-8">
+              <input type="text" placeholder="Search episode..." class="p3sdk-interactive-transcript-searchbox"/>
+            </div>
+            <div class="col-2 text-end">
+              <a class="btn btn-sm">
+                <span id="player-progress">0:00</span>
+                <span class="d-none d-lg-inline">/</span>
+                <span id="player-duration" class="d-none d-lg-inline">0:00</span>
+              </a>
+            </div>
+          </div>
+
+          <div class="p3sdk-interactive-transcript-content"></div>
+
+          <span class="small text-muted text-center" style="display: inline-block; font-size: 0.8em; width: 100%;">
+            <i class="fa-light fa-file-lines"></i>
+            Transcripts are automatically generated by machines
+            <i class="fa-light fa-robot"></i>
+          </span><br/>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="col-12 col-md-4">
+      <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item" role="presentation">
+          <a class="nav-link active" data-bs-toggle="tab" href="#episodes" aria-selected="true" role="tab">Episodes</a>
+        </li>
+        <li class="nav-item" role="presentation">
+          <a class="nav-link" data-bs-toggle="tab" href="#about" aria-selected="false" tabindex="-1" role="tab">About</a>
+        </li>
+      </ul>
+      <div id="myTabContent" class="tab-content">
+        <div class="tab-pane fade show active" id="episodes" role="tabpanel">
+          <ul class="list-group tabby-list-group" id="episodes-playlist">
+          </ul>
+        </div>
+        <div class="tab-pane fade" id="about" role="tabpanel">
+          <ul class="list-group tabby-list-group" id="about-section">
+            <li class="list-group-item border-top0">
+              <h5 class="text-info">Podcast Theme</h5>
+              <p>As we approach 2025, the 250th anniversary of the birth of the United States when shots were fired at the North Bridge, we explore how a town West of Boston, founded to produce hay, became the center of the world at the start of the American Revolution, and is now a thriving historical community representing a wide array of people and industries.</p>
+              <p>We will tell stories of Concord's past, speak with notable residents, and explore how the town is preparing for a rapidly changing world.</p>
+            </li>
+            <li class="list-group-item">
+              <h5 class="text-info">About the Host</h5>
+              <p>CJ Johnson is a resident of Concord, Massachusetts, along with his wife, six year old son and two puppies.</p>
+              <p>He is a graduate of MIT with a Bachelor of Science in Aeronautics and Astronautics, and an MBA from the MIT Sloan School of Management.</p>
+              <p>In previous careers, CJ has worked as a tech entrepreneur and consultant. Ages ago, he worked with the US Air Force and on Capitol Hill in Washington, DC.</p>
+              <p>Contact Concord Storytellers at concordstorytellers@gmail.com</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  </div>
+
+  <br/><br/>
+
+  <script type="text/javascript">
+    $(function(){
+      var bb = 0;
+      for (i in storytellers_episodes){
+        // console.log(concordstorytellers_episodes[i])
+        var li = $("<a class='list-group-item'></a>");
+        if (bb == 0){
+          $(li).addClass("border-top0");
+          bb = 1;
+        }
+        $(li).html("<span class='text-info'><i class='fa-solid fa-play'></i>&nbsp;" + storytellers_episodes[i].title + "</span><br/><small class='small text-muted'>" + format_date(storytellers_episodes[i].date) + "</small>");
+        // $(li).append("<p class='pod-description'>"+concordstorytellers_episodes[i].description+"</p>");
+        $(li).attr("transcript_url", storytellers_episodes[i].transcript_url);
+        $(li).attr("media_url", storytellers_episodes[i].media_url);
+        $("#episodes-playlist").append(li)
+      }
+
+      $("#episodes-playlist .list-group-item").click(function(){
+        $(".p3sdk-interactive-transcript").attr("remote-src", $(this).attr("transcript_url"));
+        $("#mediaplayer").attr("src", $(this).attr("media_url"));
+        $("#mediaplayer")[0].load();
+        $("#mediaplayer")[0].play();
+        p3sdk.get(0).interactive_transcripts[0].load_transcript();
+      });
+      $("#episodes-playlist .list-group-item").eq(0).click();
+
+      $("#play-pause").click(function(){
+        if ($("#mediaplayer")[0].paused) {
+          $("#play-pause").html(fa_pause());
+          return $("#mediaplayer")[0].play();
+        }
+        $("#mediaplayer")[0].pause();
+        $("#play-pause").html(fa_play());
+      });
+    });
+
+    function fa_play(){ return '<i class="fa-solid fa-play"></i><span class="d-none d-lg-inline"> Play</span>';}
+    function fa_pause(){ return '<i class="fa-solid fa-pause"></i><span class="d-none d-lg-inline"> Pause</span>';}
+    function format_date(str){return new Date(str).toDateString();}
+    function p3sdk_ready(){
+      p3$(p3sdk.get(0)).bind("player:progress", function(name,atts){
+          var m = p3sdk.util.ms_to_stamp(atts.m);
+          var d = p3sdk.util.ms_to_stamp(p3sdk.get(0).player.duration());
+          $("#player-progress").html(m);
+          $("#player-duration").html(d);
+          if (!$("#mediaplayer")[0].paused) $("#play-pause").html(fa_pause());
+      });
+    }
+  </script>
+</body>
+</html>
