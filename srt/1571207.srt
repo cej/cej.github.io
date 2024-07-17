@@ -1,0 +1,2423 @@
+1
+00:00:00,000 --> 00:00:26,640
+Okay, this is Concord Storytellers and today another special guest, friend, neighbor, scientist,
+
+2
+00:00:26,640 --> 00:00:34,960
+father, Micah Benson. Welcome. Hi CJ. Thanks for joining. Today we're going to talk about,
+
+3
+00:00:35,920 --> 00:00:42,160
+and we kind of pregame this, about talking about COVID-19 from the perspective of telling somebody
+
+4
+00:00:42,160 --> 00:00:47,840
+50 years from now about it. So what was it like going through that from a few different lenses,
+
+5
+00:00:47,840 --> 00:00:55,360
+one as a scientist, another as just a human locking down, another from the parent's perspective,
+
+6
+00:00:55,360 --> 00:01:01,360
+and we may find a couple others along the way. But even when we were just kind of previewing,
+
+7
+00:01:01,360 --> 00:01:08,640
+doing this episode together, it was amazing how many memories it kind of buried already
+
+8
+00:01:08,640 --> 00:01:13,040
+from four or five years ago. And so it's been interesting digging this back up, obviously a
+
+9
+00:01:13,040 --> 00:01:21,840
+pretty dark time in the world, a lot of unknowns that aren't all completely solved yet, but
+
+10
+00:01:21,840 --> 00:01:27,120
+something that would be interesting to talk about and you being an expert in the field,
+
+11
+00:01:27,920 --> 00:01:31,120
+I thought it would be really interesting to talk to you and bring that perspective in
+
+12
+00:01:31,680 --> 00:01:35,840
+and just talk about how you perceived it during the time that it was all going on. So welcome.
+
+13
+00:01:36,640 --> 00:01:39,360
+Could you just talk a bit about yourself and your career?
+
+14
+00:01:39,360 --> 00:01:44,640
+Yeah, absolutely. So thanks CJ and glad to be here. So first off, when I was thinking about this,
+
+15
+00:01:44,640 --> 00:01:49,600
+I realized that this was probably going to be the least viewed podcast, at least for individuals
+
+16
+00:01:49,600 --> 00:01:54,880
+within Concord today, in large part because no one wants to remember what happened in COVID.
+
+17
+00:01:54,880 --> 00:02:02,320
+Yeah. I think we've all collectively buried it. And at least for me, I don't pretend to be an
+
+18
+00:02:03,040 --> 00:02:08,640
+expert vaccinologist or epidemiologist, but what I am is an immunologist. So I trained
+
+19
+00:02:09,280 --> 00:02:16,800
+as a cellular immunologist, I did my PhD in it. I trained at Dartmouth, did a postdoc at Harvard,
+
+20
+00:02:16,800 --> 00:02:22,960
+and I think as it relates to my perspective during COVID, I actually did my PhD on humoral memory,
+
+21
+00:02:22,960 --> 00:02:29,520
+which is what happens when you encounter a pathogen, whether it's a virus or a bacteria,
+
+22
+00:02:30,000 --> 00:02:36,160
+your immune system recognizes it, and then it develops a immunological memory immune response.
+
+23
+00:02:36,160 --> 00:02:42,640
+And in particular, what I studied was one of the confounding questions that I think still persists
+
+24
+00:02:42,640 --> 00:02:48,480
+is why do memory responses against vaccines, against pathogens, stick around for the lifetime
+
+25
+00:02:48,480 --> 00:02:52,800
+of the individual? I think we now know that there's certainly a lot of nuance to that,
+
+26
+00:02:52,800 --> 00:02:58,880
+at least with COVID. One of the unfortunate things was that I think we learned kind of the hard way
+
+27
+00:02:58,880 --> 00:03:04,080
+that some of the durability of the vaccines kind of waned after six, nine months, which led to a
+
+28
+00:03:04,080 --> 00:03:10,000
+need for boosters. So there's certainly exceptions to that, but at least during my PhD, I studied,
+
+29
+00:03:10,000 --> 00:03:17,920
+I'm going to identify some of the survival factors as to what keeps the cell type that produces
+
+30
+00:03:17,920 --> 00:03:23,200
+antibodies against pathogens alive. Yeah. Interesting. Yeah. I'll say,
+
+31
+00:03:24,080 --> 00:03:29,440
+I find myself surrounded by Dartmouth alums. Is there like some sort of thing there where you
+
+32
+00:03:29,440 --> 00:03:34,160
+move to Metro West, Massachusetts? Yeah. It's the trees.
+
+33
+00:03:34,160 --> 00:03:38,640
+Okay. Well, gotcha. Okay. Yeah. You get accustomed to it being in the New Hampshire and Northwoods.
+
+34
+00:03:38,640 --> 00:03:43,920
+And then you come to Boston and like a lot of people, you do your thing in the city,
+
+35
+00:03:43,920 --> 00:03:49,760
+then you slowly start getting that itch for trees and nature. And Dartmouth is a fantastic
+
+36
+00:03:49,760 --> 00:03:54,640
+destination to get that. And I would say there's actually a lot of similarities and feel between
+
+37
+00:03:54,640 --> 00:03:59,920
+downtown Concord as well as Hanover, where Dartmouth is. Cool. Yeah. I had similar vibes
+
+38
+00:04:00,480 --> 00:04:05,280
+looking out here from where I grew up in Tennessee. So I'm glad we all converse here. It's a great
+
+39
+00:04:05,280 --> 00:04:11,680
+community. So I wanted to say, I don't know of anybody in my life who had ever experienced a
+
+40
+00:04:11,680 --> 00:04:19,040
+pandemic before. I did a bit of research on this and Wikipedia has a really interesting article
+
+41
+00:04:19,040 --> 00:04:26,240
+about just a list of epidemics and pandemics and just how devastating they were. And it's
+
+42
+00:04:26,240 --> 00:04:31,680
+interesting, the Spanish flu is the most famous one that we believe likely killed around 100
+
+43
+00:04:31,680 --> 00:04:38,640
+million people. COVID is actually fifth currently. And the ranges are, it says seven to 35 million
+
+44
+00:04:38,640 --> 00:04:42,480
+just because I think it's just very difficult, especially with a new disease, to say that this
+
+45
+00:04:42,480 --> 00:04:48,720
+was the exact cause of death or a severe illness as opposed to something else, a comorbidity that
+
+46
+00:04:48,720 --> 00:04:54,320
+was going on. I learned that word during the pandemic as well. And then something I texted
+
+47
+00:04:54,320 --> 00:05:03,840
+you about earlier today, there's this 1545 to 1548 coccolisitis epidemic, or epidemic, it wasn't
+
+48
+00:05:03,840 --> 00:05:08,240
+pandemic, so it didn't go across continent, but it took out up to 80% of the Mexican population.
+
+49
+00:05:08,240 --> 00:05:16,800
+Yeah. I just wanted to put that out as a frame of reference that there are viruses, there are
+
+50
+00:05:16,800 --> 00:05:24,320
+organisms in this world that are that lethal, that if they were spreading, that if they were
+
+51
+00:05:24,320 --> 00:05:31,200
+spread quickly, that it could be that devastating to a population. And my understanding is that
+
+52
+00:05:31,200 --> 00:05:36,960
+early on in COVID, we had no idea whether this was going to be something that passed quickly.
+
+53
+00:05:37,760 --> 00:05:41,520
+It's certainly spreading, but we didn't know how quickly it was spreading and we didn't know how
+
+54
+00:05:41,520 --> 00:05:46,160
+devastating it would be. Could you talk a bit about that and just kind of explain what it was
+
+55
+00:05:46,160 --> 00:05:50,400
+and where the scientific mindset was and how it evolved over time?
+
+56
+00:05:50,400 --> 00:05:55,600
+Yeah, sure. And to be fair, when you texted me the name of that epidemic that happened in Mexico,
+
+57
+00:05:56,160 --> 00:06:01,600
+which I great job pronouncing it, I'm not even going to try, I never heard of it either. It just
+
+58
+00:06:01,600 --> 00:06:09,840
+wasn't on my radar. And we all know about the 1918 influenza pandemic. I think it was a bit of a
+
+59
+00:06:09,840 --> 00:06:15,200
+misnomer. It was called the Spanish flu. It turns out it actually originated in Kansas. But that was
+
+60
+00:06:15,200 --> 00:06:22,080
+always the benchmark that I think kept scientists up at night, public health officials. So when I,
+
+61
+00:06:22,800 --> 00:06:29,840
+this is a bit of an anecdote, but when I was in college, I graduated in 2003 and I took a
+
+62
+00:06:30,720 --> 00:06:37,040
+microbiology course during my senior year. And about two weeks into the course, there started
+
+63
+00:06:37,040 --> 00:06:44,160
+emerging a number of influenza-like cases in Asia, in China. And it turns out that this was
+
+64
+00:06:44,160 --> 00:06:52,720
+kind of the opening salvo of SARS-1. And our professor at the time kind of recognized the
+
+65
+00:06:52,720 --> 00:06:57,520
+opportunity, put the syllabus down, and we started basically learning microbiology just by tracking
+
+66
+00:06:57,520 --> 00:07:05,040
+SARS-1 in real time. And very quickly, we were able to track the spread of China. I think there
+
+67
+00:07:05,040 --> 00:07:10,720
+are a couple other Asian countries. It made its way to Canada as well. It eventually killed around
+
+68
+00:07:10,720 --> 00:07:18,240
+800 people worldwide. There are a few very important, I think, numbers that I think we
+
+69
+00:07:18,240 --> 00:07:26,000
+were following as a benchmark. So for influenza, back in 1918, it killed, I mean, well into the
+
+70
+00:07:26,000 --> 00:07:30,880
+double digits, numbers of individuals that infected. I want to say the mortality rate was
+
+71
+00:07:31,680 --> 00:07:36,960
+well into the 30s, maybe the 40s. I don't remember the exact number. At least for SARS-1,
+
+72
+00:07:36,960 --> 00:07:44,240
+at least for SARS-1 that emerged in 2003, 2004, the mortality rate was around 10%.
+
+73
+00:07:45,440 --> 00:07:52,400
+And that's also very high. And I think that that kept people up at night, certainly. Now,
+
+74
+00:07:52,400 --> 00:07:59,760
+I think one of the reasons why it didn't spread more broadly was the fact that every patient that
+
+75
+00:07:59,760 --> 00:08:06,560
+had SARS-1 was symptomatic. There were very few asymptomatic patients. And it could only
+
+76
+00:08:06,560 --> 00:08:11,120
+transmit the virus if you were symptomatic. So it was actually relatively straightforward to
+
+77
+00:08:11,120 --> 00:08:15,600
+contain it. If you were sick, you'd undergo quarantine, and they're able to kind of build
+
+78
+00:08:15,600 --> 00:08:19,040
+a wall around the virus for that reason. So when was sick and they got sick
+
+79
+00:08:19,760 --> 00:08:23,920
+relatively quickly after catching it? Yeah. And even then, they had a pretty high mortality rate.
+
+80
+00:08:25,440 --> 00:08:32,080
+So there was another coronavirus that came out in 2010, I think the 2012, called MERS,
+
+81
+00:08:32,080 --> 00:08:38,640
+Middle Eastern Respiratory Virus, that had a higher risk of mortality. I think the vector there was
+
+82
+00:08:38,640 --> 00:08:46,320
+camels. But it was actually very hard to transmit. The person-to-person transmission was quite tough.
+
+83
+00:08:46,320 --> 00:08:52,480
+So it really hasn't spread that much, even though there is still, I think, outbreaks every so often.
+
+84
+00:08:52,480 --> 00:08:59,760
+So when this first emerged, I think the first cases started coming out in the news in Wuhan
+
+85
+00:08:59,760 --> 00:09:08,400
+and China in December. I think what we knew was there's influenza-like symptoms. It was relatively
+
+86
+00:09:08,400 --> 00:09:13,680
+quickly identified as a coronavirus, which is, to be quite frank, a known entity. Like I think-
+
+87
+00:09:13,680 --> 00:09:20,640
+So a common cold virus, right? Exactly. And it's actually, from a genetic standpoint,
+
+88
+00:09:20,640 --> 00:09:28,880
+relatively similar to SARS-1 and MERS. So you could study it at a culture. It was sequenced
+
+89
+00:09:28,880 --> 00:09:35,280
+pretty quickly. It had relatively high homology, actually, to SARS-1. So it was a known entity.
+
+90
+00:09:35,280 --> 00:09:42,480
+But I think it was very apparent that it also acted very differently. And one of the reasons
+
+91
+00:09:42,480 --> 00:09:49,280
+why was it just spread like wildfire. It was unknown how far it was spreading initially,
+
+92
+00:09:49,280 --> 00:09:57,520
+certainly first within China, in a particular year. And I think that it was not known why it
+
+93
+00:09:57,520 --> 00:10:01,040
+was spreading, whether it was due to fomines being spread on surfaces, or whether there was
+
+94
+00:10:01,840 --> 00:10:08,640
+a certain degree of asymptomatic spread. But I think it was probably in late December, early January
+
+95
+00:10:09,360 --> 00:10:17,840
+when China- In 2019, right? Yeah, exactly. What I think stood a lot of health officials up in their
+
+96
+00:10:17,840 --> 00:10:21,680
+chairs was the fact that China decided to lock down. It's like, OK, something serious is here.
+
+97
+00:10:21,680 --> 00:10:29,600
+Yeah. You need to start taking this seriously. And we started seeing it, some of the early cases,
+
+98
+00:10:29,600 --> 00:10:36,880
+I read actually the Biodenetorius Biogen Conference in Boston. I think New York Times reported late
+
+99
+00:10:36,880 --> 00:10:43,440
+in the year 2020 that around 300,000 people were infected just via that conference. That's an
+
+100
+00:10:43,440 --> 00:10:49,120
+insane number. Insane number. And I think it speaks to the fact that we got to that point. So
+
+101
+00:10:49,120 --> 00:10:54,640
+we knew something was brewing in Asia in beginning of 2020. And I think, I mean, correct me if I'm
+
+102
+00:10:54,640 --> 00:10:58,400
+wrong, we just went on with our lives. I don't think there was a lot of concern. This wasn't the
+
+103
+00:10:58,400 --> 00:11:03,520
+first time that something like this had popped up. I mean, I think over- I remember when I was a kid
+
+104
+00:11:03,520 --> 00:11:10,720
+and Ebola was a thing. And I was terrified that I was going to catch Ebola. But then I heard about
+
+105
+00:11:10,720 --> 00:11:16,880
+that. I heard about SARS, heard about mad cow disease, and all these scary sounding illnesses
+
+106
+00:11:16,880 --> 00:11:24,640
+popping up. But it's just out of sight, out of mind. I learned, I think a lot of us learned,
+
+107
+00:11:24,640 --> 00:11:31,360
+when this pops up, don't worry about it. It's not going to affect us. It almost felt like we had
+
+108
+00:11:31,360 --> 00:11:37,600
+this fortress here. Exactly. That prevented that we were as a population immune to these things.
+
+109
+00:11:37,600 --> 00:11:41,040
+So absolutely, I remember hearing about it. I remember seeing those images of the doctor
+
+110
+00:11:41,040 --> 00:11:46,080
+in the hospital bed. And he was saying, this is real. And we got to take this seriously.
+
+111
+00:11:46,080 --> 00:11:52,320
+And I was thinking, well, it's not going to come here. Yeah, exactly. And I think in January,
+
+112
+00:11:52,320 --> 00:11:57,120
+there was a lot, I mean, there was news for sure. And I think people were paying attention. But in
+
+113
+00:11:57,120 --> 00:12:04,160
+terms of editing our own lives, there was none of that. And even well into February, I think we're
+
+114
+00:12:04,160 --> 00:12:10,400
+like, okay, there's something going on over there, maybe not here. And you had a couple of
+
+115
+00:12:10,400 --> 00:12:14,800
+sporadic cases where you had an instance of someone traveling from the United States,
+
+116
+00:12:14,800 --> 00:12:20,400
+or sorry, from Asia over the United States, they would land, they were sick, and then they would
+
+117
+00:12:20,400 --> 00:12:25,040
+get tested. And then they were quarantined. But it was thought that, okay, that was an isolated
+
+118
+00:12:25,040 --> 00:12:34,400
+incident. And for me, there were probably two incidences that started getting me really nervous.
+
+119
+00:12:34,400 --> 00:12:41,760
+Almost even prior to the Biogen, the now famous Biogen conference that happened in March. One was
+
+120
+00:12:42,640 --> 00:12:51,120
+the, I think it was the Diamond Princess cruise ship. And it was, well, first an advertisement
+
+121
+00:12:51,120 --> 00:12:57,280
+not to take a cruise, unfortunately. Yeah, yeah, yeah. I've been on one. That's just because I get
+
+122
+00:12:57,280 --> 00:13:02,800
+motion sick. I don't even need a pathogen. But with this poor cruise ship in Asia,
+
+123
+00:13:02,800 --> 00:13:07,600
+in Asia, it basically just got slammed by COVID in the early days of the pandemic.
+
+124
+00:13:08,320 --> 00:13:15,040
+And what struck me, and I actually remember I was at work because I work in a biotech just surrounded
+
+125
+00:13:15,040 --> 00:13:20,480
+by a bunch of really smart people. And when this happened, we actually had lunch like, you know
+
+126
+00:13:20,480 --> 00:13:27,280
+what, we have a cruise ship. We know that based on the numbers that we're seeing, it's around 2%
+
+127
+00:13:27,280 --> 00:13:34,880
+mortality rate. We know that most of the people on this particular ship certainly have been exposed,
+
+128
+00:13:34,880 --> 00:13:41,360
+maybe, I forget the exact number, maybe half are infected. The curious thing was maybe half of
+
+129
+00:13:41,360 --> 00:13:45,680
+those people who tested positive were actually symptomatic, which means that there's a whole
+
+130
+00:13:45,680 --> 00:13:53,120
+lot of people that are asymptomatic. And what that means is unless you're incredibly, incredibly
+
+131
+00:13:53,120 --> 00:13:57,440
+diligent in testing, this virus is going to go everywhere just because you're not going to be
+
+132
+00:13:57,440 --> 00:14:02,320
+able to catch it. It's not going to be like the situation we had with SARS-1 where if you are
+
+133
+00:14:02,320 --> 00:14:07,680
+symptomatic, you could transmit it. But if you stopped someone who was symptomatic from being
+
+134
+00:14:08,720 --> 00:14:11,040
+exposing others, then you could stop it in its tracks.
+
+135
+00:14:11,040 --> 00:14:17,440
+Yeah. And it's sort of in like, I guess, lay terms that what we're kind of comparing here is
+
+136
+00:14:17,440 --> 00:14:22,800
+SARS-1, someone on a cruise ship somehow has it. They're really sick from the get-go. They're
+
+137
+00:14:22,800 --> 00:14:28,880
+isolating their cabin. They might not be shedding active virus or breathing it out or it might not
+
+138
+00:14:28,880 --> 00:14:33,920
+be contagious from the surface. There are many different properties of how contagious something
+
+139
+00:14:33,920 --> 00:14:40,320
+is, right? Like one virus, if we had 30 people in this basement, if I have one virus and we have
+
+140
+00:14:40,320 --> 00:14:45,600
+the same conversation, same mingling effect, I might infect one person. Another virus, I might
+
+141
+00:14:45,600 --> 00:14:49,760
+infect everybody in the room, just depending on how it acts. And we have no way, with something
+
+142
+00:14:49,760 --> 00:14:55,200
+new, no way to understand what that, is it the R0? Is that what it was called?
+
+143
+00:14:55,200 --> 00:15:00,480
+Yeah. I think a lot of people got a crash course in R0.
+
+144
+00:15:00,480 --> 00:15:02,960
+R0. Yeah. Absolutely.
+
+145
+00:15:02,960 --> 00:15:06,080
+And you try to benchmark, is it worse than measles? Is it better than measles?
+
+146
+00:15:06,080 --> 00:15:10,720
+Yeah. Yeah. And just trying to get it to, I think, trying to get it into terms that people
+
+147
+00:15:10,720 --> 00:15:11,200
+understand.
+
+148
+00:15:11,200 --> 00:15:11,280
+Yeah.
+
+149
+00:15:11,280 --> 00:15:18,720
+Yeah. And so I think the second event that happened in February that honestly scared me
+
+150
+00:15:18,720 --> 00:15:22,160
+was the fact that you had confirmed community transmission in Washington.
+
+151
+00:15:22,160 --> 00:15:22,640
+Yeah.
+
+152
+00:15:22,640 --> 00:15:30,080
+And I heard that, and it was confirmed that this person had not been exposed to, they hadn't
+
+153
+00:15:30,080 --> 00:15:34,400
+gone to Asia, they hadn't recently, they hadn't exposed to anyone who had recently gone to Asia.
+
+154
+00:15:34,400 --> 00:15:41,200
+Like, okay, it's definitely here. There's a lot of asymptomatic cases. And I think that's
+
+155
+00:15:41,200 --> 00:15:57,360
+why I was like, okay, buckle up time. And my wife was making fun of me because I think I told you
+
+156
+00:15:57,360 --> 00:16:02,480
+the story. I got a Costco membership that day, went out to Costco, dropped a whole lot of money
+
+157
+00:16:02,480 --> 00:16:08,880
+on a large chest freezer and a ton of food. I think my wife was saying, this is what immunologists
+
+158
+00:16:08,880 --> 00:16:18,720
+do when they nest. Yeah, absolutely. Well, I mean, I remember exactly March 17th. It was
+
+159
+00:16:18,720 --> 00:16:23,760
+St. Patrick's Day. It was the day Tom Brady said he was going to the box. It's already a pretty
+
+160
+00:16:23,760 --> 00:16:29,200
+devastating day. Yeah, that was a rough day. But that was the last day before we locked down for
+
+161
+00:16:29,200 --> 00:16:32,160
+what we thought was going to be two weeks. Did you buy two weeks?
+
+162
+00:16:32,160 --> 00:16:40,880
+No, no. I mean, so it was a time of incredible confusion, I think, even for people that
+
+163
+00:16:44,080 --> 00:16:50,640
+who otherwise kind of had like at least a working foundation in virology, immunology,
+
+164
+00:16:50,640 --> 00:16:57,040
+epidemics in general. So you mentioned the Biogen conference. So my wife was at that conference and
+
+165
+00:16:57,040 --> 00:17:02,480
+she actually met with a Biogen leadership team and she was directly exposed to those individuals. And
+
+166
+00:17:02,480 --> 00:17:07,200
+just to give you a sense of what it was like, I think she met with them on a Thursday and Friday.
+
+167
+00:17:07,760 --> 00:17:13,680
+She actually mentioned that, yeah, they look kind of sick. She comes home, the weekend passes. I
+
+168
+00:17:13,680 --> 00:17:18,320
+think we find out it may be a Sunday night that they had tested positive. And so we're looking at
+
+169
+00:17:18,320 --> 00:17:28,560
+each other like, what do we do next? Do I go to work? Do I stay home? Does life just carry on? Do
+
+170
+00:17:28,560 --> 00:17:36,000
+I only edit my life if I show symptoms? And we just did it now. She ended up staying home,
+
+171
+00:17:36,000 --> 00:17:41,360
+which was the right call and actually never went back to work, at least in person for a very long
+
+172
+00:17:41,360 --> 00:17:47,760
+time. And so at that time, there were a number of dominoes that were falling. You had Italy,
+
+173
+00:17:47,760 --> 00:17:54,320
+for example. I think we were seeing a lot of very, very scary images of Italy, where initially you
+
+174
+00:17:54,320 --> 00:17:58,800
+knew something was happening in China. Italy was the next country where it was a lot more real,
+
+175
+00:17:58,800 --> 00:18:02,240
+just because there was a lot more information that was coming out. I think there was,
+
+176
+00:18:03,360 --> 00:18:10,000
+you actually jog my memory on this, there was a famous story of a nurse who, I think there's
+
+177
+00:18:10,000 --> 00:18:17,680
+a picture of her. And was it a ventilator that she handed over to? Yeah. So there was a
+
+178
+00:18:17,680 --> 00:18:23,520
+elderly woman on a ventilator and they were out of ventilators, so they couldn't give them to
+
+179
+00:18:23,520 --> 00:18:27,600
+everybody who was a patient, who might need them. And there was a younger person in there and they
+
+180
+00:18:27,600 --> 00:18:31,280
+said, okay, well this younger person has a better shot at survival, just because they're younger.
+
+181
+00:18:31,280 --> 00:18:38,240
+And the elderly woman said, no. She said, I've had a beautiful life and I'd like you to give this to
+
+182
+00:18:38,240 --> 00:18:44,160
+her. And it's just like, it's heartbreaking. But I'm getting chills right now thinking about it,
+
+183
+00:18:44,160 --> 00:18:48,160
+because during this very confusing and dark time, you have these just like beautiful moments of
+
+184
+00:18:48,160 --> 00:18:56,480
+humanity happening as well. And even though it was a scary time, I did see in the news,
+
+185
+00:18:56,480 --> 00:19:02,160
+but also among my community, among my friends, like some just great acts of humanity among people.
+
+186
+00:19:02,160 --> 00:19:07,600
+And I really, some people were really shying during that time and helping people out. And
+
+187
+00:19:07,600 --> 00:19:12,480
+whether it was sacrificing your life like that, or whether it was just getting groceries for
+
+188
+00:19:12,480 --> 00:19:19,280
+somebody who's your neighbor who may be more at risk than you are. So it was part of the
+
+189
+00:19:19,280 --> 00:19:26,640
+dynamic of that time. Yeah, it was very strange because it was coming, I think everyone,
+
+190
+00:19:27,280 --> 00:19:31,840
+I think around early March or maybe mid-March, like everyone knew something big was about to happen.
+
+191
+00:19:33,280 --> 00:19:38,160
+It was clear that it was going to hit us, but no one really knew, A, how to prepare, well,
+
+192
+00:19:38,160 --> 00:19:44,800
+probably beyond buying food and stockpiling, stockpiling toilet paper. But in terms of how
+
+193
+00:19:44,800 --> 00:19:49,520
+to prepare beyond that, I think a lot of people were just kind of like, they were preparing for
+
+194
+00:19:49,520 --> 00:19:57,680
+something, but not quite knowing how. Yeah, 2074, if you're listening, for whatever reason,
+
+195
+00:19:57,680 --> 00:20:02,320
+there was a massive run on toilet paper. It was the first thing to go off the shelf. We ended up
+
+196
+00:20:02,320 --> 00:20:06,400
+having a lot of supply issues for a couple of years. Toilet paper was number one. I went
+
+197
+00:20:06,400 --> 00:20:10,320
+through the house. Once it hit me that this was serious, I went through the house. I was like,
+
+198
+00:20:10,320 --> 00:20:13,680
+I think we only have like six walls of toilet paper. We better get some. I went through the
+
+199
+00:20:13,680 --> 00:20:19,520
+house. It was 92. I was like, we're good. This is the least of our concerns. I ended up doing the
+
+200
+00:20:19,520 --> 00:20:27,680
+same thing you did. I have a massive freezer in my garage now full of protein, full of protein and
+
+201
+00:20:27,680 --> 00:20:33,200
+frozen vegetables. I had shelves down in the basement here with all kinds of non-perishable
+
+202
+00:20:33,200 --> 00:20:38,960
+stuff. My mom thought I... My wife probably thought I was crazy, but she was supportive of me
+
+203
+00:20:38,960 --> 00:20:42,800
+and how I was processing all this. My mom thought I had gone completely that shit.
+
+204
+00:20:44,160 --> 00:20:48,800
+I mean, I had heard anecdotes. I don't know who these people are, but it's one of those friends
+
+205
+00:20:48,800 --> 00:20:54,320
+of friends things where people had... They only exhausted their toilet paper stores well into
+
+206
+00:20:54,320 --> 00:21:06,400
+2022 that they had established in 2020, which is remarkable. I mean, lockdown was crazy. I mean,
+
+207
+00:21:06,400 --> 00:21:12,720
+kind of going through that process. Within a company where we were, we were trying to figure
+
+208
+00:21:12,720 --> 00:21:18,480
+out all the policies for our employees. What do we say? We didn't have national guidance yet.
+
+209
+00:21:18,480 --> 00:21:24,240
+Exactly. Then on the home front, you're thinking to yourself, well, apparently I need toilet paper,
+
+210
+00:21:24,240 --> 00:21:29,600
+so I got to stack up on that, but what about other stuff? What about kids? It was a time of just
+
+211
+00:21:29,600 --> 00:21:33,680
+unbelievable uncertainty, and yet there were still kind of trickets of normalcy as well because
+
+212
+00:21:35,120 --> 00:21:38,800
+things didn't lock down until they did. Even though a lot of people sense that something big
+
+213
+00:21:38,800 --> 00:21:46,560
+was coming up, I still have it ingrained in my memory. I was driving my daughter back from a
+
+214
+00:21:46,560 --> 00:21:53,520
+basketball game. I forget the name. I think it was Sudbury actually. We were listening on the radio,
+
+215
+00:21:53,520 --> 00:21:59,440
+listening on the news to the recent developments, and lockdown ultimately ended up happening two
+
+216
+00:21:59,440 --> 00:22:03,280
+days later. I just remember telling it, listen, we're about to go through some really historic
+
+217
+00:22:03,280 --> 00:22:08,560
+stuff. What's about to happen is going to hit us. It's going to hit us hard. You're going to
+
+218
+00:22:08,560 --> 00:22:15,440
+remember this for the rest of your life. Yeah. I don't use Facebook much anymore,
+
+219
+00:22:15,440 --> 00:22:23,520
+I think because of the fact that through COVID and then into 2021, I am doom scrolling a lot.
+
+220
+00:22:26,000 --> 00:22:30,240
+But there's a woman that was a graduate from my high school a couple of years before me,
+
+221
+00:22:30,240 --> 00:22:34,960
+and she actually, I think only the two people from my hometown are up in the Boston area now
+
+222
+00:22:34,960 --> 00:22:41,680
+that I know of. She's a very well-respected doctor at MGH, and she just put out the PSA
+
+223
+00:22:41,680 --> 00:22:48,800
+to everyone in the group and said, this is real. I'm seeing patients. It's pretty ugly.
+
+224
+00:22:51,120 --> 00:22:54,880
+This is real. The lockdown is probably longer than, it's probably longer than two weeks.
+
+225
+00:22:56,640 --> 00:22:59,440
+You might be looking at it toward the end of the year, and that was shocking to me.
+
+226
+00:23:00,320 --> 00:23:08,960
+But I believed her, and so I started preparing for that mentally and supply-wise, and in every way
+
+227
+00:23:08,960 --> 00:23:16,880
+that I could, started preparing for that eventuality. I remember the guidelines slowly started coming
+
+228
+00:23:16,880 --> 00:23:23,760
+out, six feet social distancing, masks, and you start to kind of reset how you think about
+
+229
+00:23:24,720 --> 00:23:28,560
+just being in the community. You don't want to be in the household days. You go out for a walk,
+
+230
+00:23:29,360 --> 00:23:33,440
+but then you see someone across the street, and you are giving each other the evil eye.
+
+231
+00:23:33,440 --> 00:23:42,800
+Why? Because for all you know, this person could be the end of me. If this person runs up and says,
+
+232
+00:23:42,800 --> 00:23:48,960
+hi, it could be over. Those were the sorts of wild thoughts going through our heads at the time.
+
+233
+00:23:50,320 --> 00:23:54,800
+I think that the hardest part was you didn't know how to gauge risk, just because everything
+
+234
+00:23:54,800 --> 00:24:04,560
+was unknown. We didn't know how well masks worked. I think now we know that they did very well,
+
+235
+00:24:04,560 --> 00:24:09,840
+and social distancing certainly worked as well. But we also implemented some measures that in
+
+236
+00:24:09,840 --> 00:24:16,880
+hindsight just did not make sense at all. I was one of the many people who would go to the grocery
+
+237
+00:24:16,880 --> 00:24:22,560
+store, load up on dry goods, and then before I brought them in my house, I had to wipe them
+
+238
+00:24:22,560 --> 00:24:30,560
+all down with alcohol. My fingers were just decimated all year from Clorox wipes until I
+
+239
+00:24:30,560 --> 00:24:36,560
+found out that wasn't necessary. I remember the thing that hit me was I started learning about
+
+240
+00:24:36,560 --> 00:24:44,640
+viral shedding and that younger kids especially seemed to largely be asymptomatic, but that they
+
+241
+00:24:44,640 --> 00:24:52,960
+just shed and shed and they shed a lot of virus. So if you held a baby or a young kid up to your face,
+
+242
+00:24:56,080 --> 00:25:00,800
+you could just be getting a devastating amount of COVID that your system is not ready for.
+
+243
+00:25:02,800 --> 00:25:09,680
+You had a two-year-old at the time, so it was pretty scary. I think it might be a good time to
+
+244
+00:25:09,680 --> 00:25:17,040
+talk about the concept of bubbling. It was a tough time for everybody, but I think kids especially.
+
+245
+00:25:18,480 --> 00:25:27,200
+Two years old, that's a major time in life to start developing social skills. With one child
+
+246
+00:25:27,200 --> 00:25:35,120
+at home, it was just, what do we do? We were fortunate that we were able to find a family
+
+247
+00:25:35,120 --> 00:25:42,240
+with similar-aged kids. They had similar risk tolerances as us, similar testing policies,
+
+248
+00:25:42,240 --> 00:25:48,800
+and we just found this nice connection where the kids could get together and hang out.
+
+249
+00:25:50,080 --> 00:25:55,600
+I would drive every week to urgent care and get swabbed and make sure that I was
+
+250
+00:25:56,640 --> 00:26:00,160
+still negative. That just became the norm for a long time.
+
+251
+00:26:00,160 --> 00:26:07,440
+Yeah. It was a strange time because you almost had a bifurcation.
+
+252
+00:26:08,400 --> 00:26:13,120
+At the time, we were living in Arlington. It was a relatively dense neighborhood.
+
+253
+00:26:16,080 --> 00:26:21,760
+One of the things that happened was when lockdown happened, people went outside. I actually met a
+
+254
+00:26:21,760 --> 00:26:26,320
+whole lot of neighbors, obviously from a distance that I had not met before, just because people
+
+255
+00:26:26,320 --> 00:26:31,920
+didn't have anything else to do. People would go outside. They would talk from a distance again
+
+256
+00:26:31,920 --> 00:26:37,200
+at the local park. I actually met a lot of people that I, even though I had lived in that house for
+
+257
+00:26:38,480 --> 00:26:45,920
+I think a number of years, had not even seen them. Never mind had met them. That was,
+
+258
+00:26:45,920 --> 00:26:56,800
+I guess, different. For kids, I had a sixth grader, a fifth grader, and a second grader.
+
+259
+00:26:58,160 --> 00:27:06,560
+The kids got hit pretty hard because when you're a kid, you need to be social. That is an
+
+260
+00:27:06,560 --> 00:27:11,200
+incredibly strong urge. When you're trying to keep kids apart, it's just really tough.
+
+261
+00:27:11,200 --> 00:27:14,160
+Fortunately, we had a household of three so they could play with each other.
+
+262
+00:27:14,160 --> 00:27:21,840
+I think that helped them a lot. Being restricted to play with their friends,
+
+263
+00:27:23,760 --> 00:27:29,760
+that was definitely difficult. I remember seeing at the local playgrounds, because they shut down
+
+264
+00:27:29,760 --> 00:27:35,200
+all the colleges, they basically just sent all the kids home the first couple of weeks of lockdown.
+
+265
+00:27:35,200 --> 00:27:43,280
+You had a lot of college students, high schoolers as well, that parents just could not restrain.
+
+266
+00:27:44,240 --> 00:27:53,120
+Their urge, obviously, at that age is to go be social. You tell a group of high schoolers
+
+267
+00:27:53,120 --> 00:27:59,280
+that, no, you can't get together and be social and pick up basketball and go do stuff. It's
+
+268
+00:27:59,280 --> 00:28:03,120
+really tough. That's really tough. You're someone like the bad guy from Footloose.
+
+269
+00:28:03,120 --> 00:28:10,080
+Yeah, exactly. They were pushing the limits of social distancing as far as they could.
+
+270
+00:28:10,800 --> 00:28:11,280
+Absolutely.
+
+271
+00:28:11,280 --> 00:28:19,840
+Rightfully so. I remember thinking to myself, okay, I think we can probably socially distance
+
+272
+00:28:21,280 --> 00:28:28,480
+and lockdown for maybe two or three months. After that, I think just human beings are social
+
+273
+00:28:28,480 --> 00:28:33,200
+creatures. They need to be around each other. After that, there's just no way.
+
+274
+00:28:33,200 --> 00:28:45,280
+Yeah. It slowly started to emerge for us personally too. I had golf before in my life,
+
+275
+00:28:45,280 --> 00:28:48,480
+but I started playing a lot more golf because it was really easy to be distant.
+
+276
+00:28:50,800 --> 00:28:58,320
+A lot of fires in the backyard and a solo stove, solo stoves with some neighbors. I had
+
+277
+00:28:58,320 --> 00:29:04,000
+moved here relatively recently when this all started and had moved here when my son was
+
+278
+00:29:04,000 --> 00:29:11,280
+nine months old. That year and a quarter, I hadn't met a ton of people yet. I was just starting to
+
+279
+00:29:11,280 --> 00:29:20,720
+come out of that early baby time. I have friends now where it's hard to remember this, but I have
+
+280
+00:29:20,720 --> 00:29:29,440
+friends in my neighborhood here that I knew for a year before I stepped foot in their house. My
+
+281
+00:29:29,440 --> 00:29:37,040
+in-laws moved nearby and it was a year before we would go to their yard and play and they would be
+
+282
+00:29:37,040 --> 00:29:45,280
+up on the porch and we'd be talking 30 feet away. It was really just so strange.
+
+283
+00:29:45,280 --> 00:29:48,720
+You got pretty good at having outdoor meals under heaters.
+
+284
+00:29:48,720 --> 00:29:59,120
+Yes. There's this Concord Family Network and a friend of mine and I, three weeks before
+
+285
+00:29:59,920 --> 00:30:05,520
+COVID hit, had taken responsibility to organize Dad's Night Out. All of a sudden we're at,
+
+286
+00:30:05,520 --> 00:30:09,600
+okay, how do we do this? We're locked down for the year. We organized all these.
+
+287
+00:30:11,600 --> 00:30:16,960
+There was a Children's Cafe and they organized, oh, we'll just put together a meal for you and
+
+288
+00:30:16,960 --> 00:30:22,800
+a beer sampler or whiskey sampler and you can all go on Zoom and try all these things together and
+
+289
+00:30:23,360 --> 00:30:29,520
+talk about them. There was a fun part there of just making the best of it and trying to meet people.
+
+290
+00:30:32,480 --> 00:30:40,560
+It's worth talking about the virtual life that we all went from reality to virtual reality
+
+291
+00:30:40,560 --> 00:30:48,880
+to Zoom overnight. Overnight to Zoom, yeah. I was thinking about this the other day.
+
+292
+00:30:49,440 --> 00:30:55,680
+There are a few key pieces of technology that if they weren't around during COVID,
+
+293
+00:30:55,680 --> 00:30:59,760
+I don't know how we would have made it. One of the biggest ones was obviously being able to
+
+294
+00:30:59,760 --> 00:31:06,160
+communicate via the internet but being able to do so virtually as well and do so seamlessly with
+
+295
+00:31:06,160 --> 00:31:14,080
+some honestly awesome software. It allowed a lot of people just to go home on one day and then the
+
+296
+00:31:14,080 --> 00:31:22,640
+next day flip open their laptops, rejigger their home office. I think a lot of couples, a lot of
+
+297
+00:31:22,640 --> 00:31:26,720
+families went through the growing pains of trying to figure out where exactly the home offices are
+
+298
+00:31:26,720 --> 00:31:37,120
+and are not in order to not be disrupted by kids, by pets, by spouses. Going through that process,
+
+299
+00:31:39,040 --> 00:31:43,360
+you were suddenly going from talking to people all day to just staring at a computer screen all day,
+
+300
+00:31:44,880 --> 00:31:53,600
+just overnight. People did that really quickly. Did you pick up any weird hobbies during COVID?
+
+301
+00:31:53,600 --> 00:32:02,800
+Yeah. Let's see. I did. I got into woodworking more. I remember, while I don't think we did this,
+
+302
+00:32:03,600 --> 00:32:07,440
+there were certain trends that you would see where suddenly everyone was into something,
+
+303
+00:32:07,440 --> 00:32:11,360
+then everyone was into something else. I think one of the first trends that came around was
+
+304
+00:32:11,360 --> 00:32:16,880
+sourdough bread. Absolutely. Yeah. I remember people naming their sourdough starters. There's
+
+305
+00:32:16,880 --> 00:32:25,280
+Vladimir Gluten. I can't remember all the ones that came out. My buddy Matt, who we did the
+
+306
+00:32:25,280 --> 00:32:32,800
+Conquer Family Network thing, he's an awesome guy. He's a rugby player, so he's just a big
+
+307
+00:32:33,520 --> 00:32:39,280
+jacked guy. That's not the typical profile somebody that you think is, he's an excellent,
+
+308
+00:32:39,280 --> 00:32:46,880
+excellent cook, very good cook. He bought five pounds of bread flour. He was like,
+
+309
+00:32:46,880 --> 00:32:50,960
+there's no way to throw all this. He came and split it with me. We went back and forth,
+
+310
+00:32:50,960 --> 00:32:59,760
+hey man, I'm making bagels today. We're sharing recipes. I would say that on a scale from one to
+
+311
+00:32:59,760 --> 00:33:08,640
+10, my wife and I went from being 0.5 out of 10 to, we're a solid five now. We definitely
+
+312
+00:33:08,640 --> 00:33:15,840
+got better because at the beginning in concrete, the door dash team was basically 0. It's grown a
+
+313
+00:33:15,840 --> 00:33:21,040
+ton now. There are a lot of options you can get, but take out and delivery just wasn't really a
+
+314
+00:33:21,040 --> 00:33:25,440
+thing around here. It was a lot of home cooking. That's right. That's a good point actually,
+
+315
+00:33:25,440 --> 00:33:32,240
+because lockdown happened. Suddenly, everyone was cooking three meals a day. You had to brush off
+
+316
+00:33:32,240 --> 00:33:38,400
+your skill set and relearn how to do that if you weren't before. There was also, you talk
+
+317
+00:33:38,400 --> 00:33:41,840
+about people who got hit pretty hard, the restaurants. It was like a surgical strike
+
+318
+00:33:41,840 --> 00:33:45,680
+on the service community. Yeah. A lot of my favorite places in the Boston area are gone now.
+
+319
+00:33:45,680 --> 00:33:52,960
+Yeah. I think there was certainly a lot of goodwill and people trying to help out restaurants by
+
+320
+00:33:53,840 --> 00:33:59,680
+going above and beyond to order out. Certainly, it wasn't enough for a lot of places,
+
+321
+00:34:00,720 --> 00:34:05,120
+but restaurants, you talk about just trying to figure out how to survive.
+
+322
+00:34:05,120 --> 00:34:13,120
+They went from having a full room to, if they're lucky, and they had enough of a cash cushion,
+
+323
+00:34:13,120 --> 00:34:18,880
+suddenly turning into a delivery only business. Then you had pretty strong
+
+324
+00:34:18,880 --> 00:34:23,520
+emergence of these food delivery services. Yeah. Well, you ever go to Red Bones in Summerville,
+
+325
+00:34:23,520 --> 00:34:28,800
+Fair Square? Yeah. That's transformed from, you never could get delivery from there,
+
+326
+00:34:28,800 --> 00:34:33,760
+but that was a hotspot. It was a hangout spot, lunch and dinner. I went there,
+
+327
+00:34:33,760 --> 00:34:39,040
+and I went there a month ago with a buddy of mine. When I lived in Davis Square, I used to go there
+
+328
+00:34:39,040 --> 00:34:44,320
+once a week. It's almost purely takeout now. It's actually kind of odd if you're there eating.
+
+329
+00:34:44,320 --> 00:34:47,600
+Is it the whole order with a QR code type? Yeah, absolutely.
+
+330
+00:34:47,600 --> 00:34:50,880
+Yeah. That's new as well. I think that- QR code.
+
+331
+00:34:50,880 --> 00:34:54,160
+A touchless ordering. Yeah.
+
+332
+00:34:55,600 --> 00:34:58,080
+Necessity is the mother of invention. It didn't go out to be true.
+
+333
+00:34:58,080 --> 00:35:05,360
+Just to give a sense of how desolate it was outside of people's houses, I remember it was in,
+
+334
+00:35:05,360 --> 00:35:10,000
+it must have been in probably late March. No, it must have been in April at some point.
+
+335
+00:35:10,000 --> 00:35:14,480
+I took the family. We were going completely stir crazy. We decided to drive to my sister's house
+
+336
+00:35:16,000 --> 00:35:20,320
+who lives in Brookline. We took the long way just because we were curious to see what the city looked
+
+337
+00:35:20,320 --> 00:35:28,560
+like. We saw maybe a car the entire way driving from Arlington all the way to Brookline. It was
+
+338
+00:35:29,520 --> 00:35:34,640
+not even people outside. People were inside. It was so eerie.
+
+339
+00:35:34,640 --> 00:35:37,200
+Yeah. It's eerie. I remember driving into Boston
+
+340
+00:35:37,200 --> 00:35:39,760
+times and just being like, it's not supposed to take 15 minutes to get into Boston.
+
+341
+00:35:39,760 --> 00:35:42,720
+No. Yeah, it's crazy.
+
+342
+00:35:43,520 --> 00:35:48,000
+I don't think we'll see that unless, I mean, knock on wood, I can't imagine another scenario
+
+343
+00:35:48,000 --> 00:35:54,160
+where we'll see that. Yeah. I will say that I do have two Bonsai trees as a result of
+
+344
+00:35:55,040 --> 00:36:02,240
+the pandemic. I got a jade and a juniper. There's a store Bonsai West in Hatton. It's really cool.
+
+345
+00:36:03,120 --> 00:36:05,680
+I tried to get a pine, but they wouldn't let me. They're like, you're too much of a beginner.
+
+346
+00:36:05,680 --> 00:36:10,720
+You're just going to kill it. They're like, if you can pass the juniper, then you can get a pine.
+
+347
+00:36:10,720 --> 00:36:17,680
+Yeah. Sadly, I named them Leroy and Jenkins because I was just,
+
+348
+00:36:18,320 --> 00:36:22,240
+if anyone knows the Leroy Jenkins story, it's a story of just going into something
+
+349
+00:36:23,920 --> 00:36:27,600
+guns a blazing without any real forethought into the fact that I'm probably not very good
+
+350
+00:36:27,600 --> 00:36:30,400
+taking care of plants. These plants will be alive in 50 years, right?
+
+351
+00:36:31,840 --> 00:36:34,480
+Unfortunately, Juniper Jenkins did not make it. Oh, no.
+
+352
+00:36:34,480 --> 00:36:43,840
+But Leroy, Leroy the Jade is thriving and I took one, I clipped off a branch and planted it
+
+353
+00:36:43,840 --> 00:36:49,040
+in Juniper Jenkins soil and that one is growing now too. Yeah, it's a baby.
+
+354
+00:36:50,800 --> 00:36:57,840
+So that was kind of fun. I needed something kind of peaceful to do. So it was a good time. I know
+
+355
+00:36:57,840 --> 00:37:01,040
+a lot of people picked up some weird hobbies. I'd love to, if anyone listening to this wants
+
+356
+00:37:01,040 --> 00:37:05,520
+to let us know, let me know. I've heard about rock polishing.
+
+357
+00:37:06,160 --> 00:37:08,640
+Oh yeah. I think that was one of the most
+
+358
+00:37:09,360 --> 00:37:13,520
+surprising hobbies that I heard about. Like that actually sounds very, very calming.
+
+359
+00:37:14,400 --> 00:37:25,440
+Well, I feel like when I was kind of eight to 12 year old zone, like any museum or any kind of
+
+360
+00:37:25,440 --> 00:37:30,080
+like kids friendly place that we went to, there were rock polishing kits. I bet, I think a lot
+
+361
+00:37:30,080 --> 00:37:36,720
+of us probably like kind of went back to things that are comfortable to us at the time. To me,
+
+362
+00:37:36,720 --> 00:37:43,040
+like I am total amateur armchair psychologist. I've never even took a psychology course and I'm
+
+363
+00:37:43,040 --> 00:37:47,120
+fascinated by the subject. I'm just fascinated about the raw human responses to some of this stuff
+
+364
+00:37:47,680 --> 00:37:54,640
+from seeking comfort to, you know, I think the response of some of the public to basically just
+
+365
+00:37:54,640 --> 00:38:01,440
+deny that this was happening at all until it hit them directly is that's just a human subconscious
+
+366
+00:38:01,440 --> 00:38:06,240
+response to something of just how to react to an existential threat. I actually heard a really
+
+367
+00:38:06,240 --> 00:38:11,120
+interesting story today. I was listening to some history of Omaha Beach D-Day and they were saying
+
+368
+00:38:11,120 --> 00:38:17,120
+that these guys, despite all their training, they just went into this subconscious response of they're
+
+369
+00:38:17,120 --> 00:38:23,200
+getting machine gun fire at them and it's just, you know, the ninth level of hell. And there's this
+
+370
+00:38:23,200 --> 00:38:26,720
+human response when something happens and you just start digging a hole. To get in the hole
+
+371
+00:38:27,280 --> 00:38:31,200
+and just wait until it's over and then come back out. And it's like people were digging holes
+
+372
+00:38:31,200 --> 00:38:37,920
+under the water and it made absolutely no logical sense on this reaction to it. But this is just a
+
+373
+00:38:37,920 --> 00:38:45,120
+human response. I think that the word head in the sand was used a lot for, I think, groups of people
+
+374
+00:38:45,120 --> 00:38:50,640
+who were just like, no, this isn't happening. It's not real. And I think that that, I'm not saying
+
+375
+00:38:50,640 --> 00:38:54,880
+as a political thing or anything like that, I just think it's fascinating the human response
+
+376
+00:38:54,880 --> 00:39:05,840
+to something like this happening. And I think we all had interesting things happen to us in
+
+377
+00:39:05,840 --> 00:39:11,440
+different mental states during this time. So it was definitely kind of wild. I think maybe part of the
+
+378
+00:39:11,440 --> 00:39:16,320
+reason why we blocked out so many memories when we were talking about doing this.
+
+379
+00:39:16,320 --> 00:39:21,680
+No, I definitely, I probably went hoarse a few times yelling at the TV in the early days.
+
+380
+00:39:23,120 --> 00:39:25,920
+Just given the background.
+
+381
+00:39:28,320 --> 00:39:33,360
+So, yeah, we went through kind of like the social stuff and maybe we can bring back to the science.
+
+382
+00:39:35,920 --> 00:39:41,520
+So I know you were saying that we know coronavirus. We found out pretty quickly what this was.
+
+383
+00:39:41,520 --> 00:39:51,680
+Yeah. What's the pathway then to vaccines, treatments, like how, from a scientific
+
+384
+00:39:51,680 --> 00:39:58,880
+standpoint, what are you looking for and how are these things created and why mRNA?
+
+385
+00:39:58,880 --> 00:40:08,080
+Yeah, yeah, yeah, absolutely. So with COVID-19, we actually, because of SARS 1, we had in a little
+
+386
+00:40:08,080 --> 00:40:15,920
+bit of a weird way, a bit of a leg up. So SARS 1 came out early 2000s and what, and I think it
+
+387
+00:40:17,120 --> 00:40:23,440
+put on the radar the fact that coronaviruses are nasty. I mean, very high likelihood that at some
+
+388
+00:40:23,440 --> 00:40:29,120
+point in human history, another coronavirus pandemic is going to come and hit us pretty hard.
+
+389
+00:40:29,760 --> 00:40:34,720
+And that kind of triggered surveillance programs. I think that there are some,
+
+390
+00:40:34,720 --> 00:40:38,400
+actually now infamous surveillance programs that were established in Asia.
+
+391
+00:40:39,440 --> 00:40:44,720
+There was also a lot of basic research that went into trying to figure out how best to generate
+
+392
+00:40:44,720 --> 00:40:52,720
+a good immune response against essentially pieces of coronavirus. So I think
+
+393
+00:40:52,720 --> 00:41:04,240
+I think vaccinology for years has generally taken the form of taking bits of a virus, whether
+
+394
+00:41:05,200 --> 00:41:11,200
+it's an inactivated dead virus or whether it's recombinant pieces of a virus, essentially
+
+395
+00:41:12,080 --> 00:41:16,240
+proteins that are directly derived from a virus that have identified to elicit a very good immune
+
+396
+00:41:16,240 --> 00:41:22,080
+response. Kind of mixing that with at times another agent that can kind of ramp up the immune
+
+397
+00:41:22,080 --> 00:41:30,880
+response at the same time, and then you use it as a vaccine. And I mean, we all get childhood vaccines.
+
+398
+00:41:31,440 --> 00:41:39,280
+We don't really talk about measles, mumps, rubella, diphtheria, tetanus, polio, meningitis
+
+399
+00:41:39,280 --> 00:41:45,440
+anymore because we get vaccinated against those as children. Smallpox isn't around anymore as a
+
+400
+00:41:45,440 --> 00:41:57,840
+result, et cetera. So they're extremely effective. And with vaccines, usually the whole drug discovery,
+
+401
+00:41:57,840 --> 00:42:04,000
+drug development process, it takes on the order of decades, not years, decades. It usually takes
+
+402
+00:42:04,000 --> 00:42:11,440
+minimum 10 years to come up with a good vaccine, then run all of the clinical trials first in
+
+403
+00:42:11,440 --> 00:42:17,360
+healthy humans, and then just identify safety, and then phase two, phase three. And finally,
+
+404
+00:42:18,400 --> 00:42:24,240
+you get approval, and then you'll get a large pharmaceutical company like a Pfizer
+
+405
+00:42:25,200 --> 00:42:29,360
+to manufacture hundreds of millions of doses, almost never billions, to be honest,
+
+406
+00:42:29,360 --> 00:42:36,560
+but usually hundreds of millions of doses for peak sales. So vaccines are viewed as,
+
+407
+00:42:36,560 --> 00:42:42,480
+and they have for a while, as probably the best weapon that we could ever elicit against a pandemic.
+
+408
+00:42:44,080 --> 00:42:52,720
+Now, what happened with COVID-19, there was a few kind of just underlying insights that were
+
+409
+00:42:52,720 --> 00:42:58,960
+generated that we didn't know what at the time kind of set us up for success. One was the
+
+410
+00:42:58,960 --> 00:43:05,600
+development of mRNA technology. And I think it's been an idea that's been kicked around for a while,
+
+411
+00:43:05,600 --> 00:43:12,960
+where rather than taking bits of a virus, either recombinant protein that's directly derived from
+
+412
+00:43:12,960 --> 00:43:22,320
+a virus or a heat-inactivated virus, why don't we take a step back and use mRNA, which actually
+
+413
+00:43:22,320 --> 00:43:29,360
+encodes the protein, and deliver that to a patient in order to vaccinate. And it's an idea that
+
+414
+00:43:29,360 --> 00:43:37,680
+could apply not just to vaccinations, but also diseases like protein replacement, diseases like
+
+415
+00:43:37,680 --> 00:43:46,080
+chemophilia. Can we use mRNA, administer it to a patient, and have it express monoclonal antibodies,
+
+416
+00:43:46,080 --> 00:43:53,520
+which are used as a therapeutic as well, quite broadly. So with vaccines, that idea was definitely
+
+417
+00:43:53,520 --> 00:44:04,480
+out there. I think at the time, there was probably a notion that mRNA-based vaccines,
+
+418
+00:44:05,360 --> 00:44:09,760
+in the instance of a pandemic, could be a technology that could be quickly turned around
+
+419
+00:44:09,760 --> 00:44:15,040
+and used. And you had a couple of companies, one being BioNTech, the other being Moderna,
+
+420
+00:44:15,040 --> 00:44:20,800
+that established a lot of the research, establishing that this could be done, certainly
+
+421
+00:44:20,800 --> 00:44:25,920
+in preclinical animal models, and I think at least in early-stage clinical development. So the
+
+422
+00:44:25,920 --> 00:44:31,280
+technology, I think, was maybe not ready for prime time, but it's probably at the brink,
+
+423
+00:44:31,280 --> 00:44:38,400
+ready for prime time. Also, a lot of the basic science that was done in support of figuring out
+
+424
+00:44:39,680 --> 00:44:46,640
+and studying SARS-1 was directly applicable to COVID-19. One good example is that there was
+
+425
+00:44:46,640 --> 00:44:53,200
+some really nice work that came out of labs from collaboration from Scripps, NIH, and actually
+
+426
+00:44:53,200 --> 00:44:57,920
+Dartmouth, where they used the spike protein. I think everyone who has gone through the pandemic
+
+427
+00:44:57,920 --> 00:45:02,640
+now knows that there's something on COVID called the spike protein. And it's basically...
+
+428
+00:45:02,640 --> 00:45:03,680
+It's the key to entry to the cell, yeah.
+
+429
+00:45:03,680 --> 00:45:10,160
+Exactly. Exactly. If you think of COVID virus particles as a golf ball, exactly, the spike
+
+430
+00:45:10,160 --> 00:45:14,560
+protein is what attaches to the cell, it allows the virus to actually get in. It's also
+
+431
+00:45:14,560 --> 00:45:20,240
+a bit of the Achilles heel of the virus, because that's what the immune response tends to recognize,
+
+432
+00:45:20,240 --> 00:45:27,280
+at least antibodies that are generated. So it's a very good target to generate vaccines against.
+
+433
+00:45:28,000 --> 00:45:32,480
+And so there was some work where it was initially observed that the spike protein
+
+434
+00:45:32,480 --> 00:45:38,480
+in SARS and MERS was actually very floppy. It didn't express well. When you tried to
+
+435
+00:45:38,480 --> 00:45:44,640
+express the protein and use it in the context of a vaccine, it just didn't generate a good
+
+436
+00:45:44,640 --> 00:45:48,160
+immune response. So they identified a couple of point mutations that they could make, just
+
+437
+00:45:48,160 --> 00:45:53,440
+switching a couple of amino acids in the spike protein that made it a lot more rigid. And those
+
+438
+00:45:53,440 --> 00:45:59,520
+mutations ultimately ended up in both the Moderna and Pfizer, the BioNTech Pfizer products. And if
+
+439
+00:45:59,520 --> 00:46:04,560
+that insight hadn't been made, if mRNA technology kind of wasn't at the brink of prime time,
+
+440
+00:46:04,560 --> 00:46:06,640
+I don't think we would have had a COVID vaccine.
+
+441
+00:46:06,640 --> 00:46:09,600
+Yeah. So you had...
+
+442
+00:46:09,600 --> 00:46:10,160
+We'd still be in it.
+
+443
+00:46:10,160 --> 00:46:11,920
+We certainly...
+
+444
+00:46:11,920 --> 00:46:13,200
+Unless it mutated down to...
+
+445
+00:46:13,200 --> 00:46:18,720
+It would be... There would be, I mean, a lot, under the order of millions more people that
+
+446
+00:46:18,720 --> 00:46:25,360
+would be dead, unfortunately, if we hadn't had that. And so you had mRNA vaccines kind of at the
+
+447
+00:46:25,360 --> 00:46:31,600
+brink of prime time. You had these insights as to what exactly the target from a vaccine standpoint
+
+448
+00:46:31,600 --> 00:46:37,040
+and what both Moderna and Pfizer did as soon as the sequence was available. I think this was in
+
+449
+00:46:37,920 --> 00:46:44,400
+January at some time. They were just off to the races. And they basically reduced
+
+450
+00:46:45,920 --> 00:46:54,560
+10 years of drug discovery and drug development into about nine months. They were dosing patients
+
+451
+00:46:54,560 --> 00:47:01,680
+in a matter of months for phase one. And they evaluated multiple vaccine candidates in parallel
+
+452
+00:47:02,480 --> 00:47:09,840
+and at risk started manufacturing, or at least establishing the manufacturing footprint needed
+
+453
+00:47:09,840 --> 00:47:17,120
+to manufacture vaccines first for phase three, they'd just skip phase two, into phase three,
+
+454
+00:47:17,840 --> 00:47:22,880
+and then for commercial development. So I was actually in the Pfizer trial.
+
+455
+00:47:22,880 --> 00:47:24,000
+Yeah, you were early.
+
+456
+00:47:24,000 --> 00:47:25,040
+Yeah, I was early.
+
+457
+00:47:25,040 --> 00:47:26,160
+And how nervous were you?
+
+458
+00:47:26,720 --> 00:47:34,960
+So it's a good question. I was not actually. And I know, and this is where I probably benefited
+
+459
+00:47:34,960 --> 00:47:41,280
+a little bit just from my knowledge of mRNA, because I knew the components of the vaccine,
+
+460
+00:47:41,280 --> 00:47:47,760
+it was a lipid nanoparticle, which is basically a little bit of grease. It's very similar chemical
+
+461
+00:47:47,760 --> 00:47:52,720
+composition to what the membranes of our cell contain today. It's really no different. So I
+
+462
+00:47:52,720 --> 00:47:59,760
+wasn't worried about that. mRNA is mRNA. It's a genetic code that is highly transient.
+
+463
+00:48:02,560 --> 00:48:08,800
+If it enters your cells, it's usually gone within a few days. But it certainly does a lot of business
+
+464
+00:48:08,800 --> 00:48:15,520
+while it's in the cell. So honestly, I wasn't that worried. I was actually pretty excited.
+
+465
+00:48:15,520 --> 00:48:17,360
+Are you bonded that you didn't get superpowers?
+
+466
+00:48:17,360 --> 00:48:26,720
+I am actually. I was expecting some more of a like activity. And so, I mean, I remember actually
+
+467
+00:48:26,720 --> 00:48:30,400
+going in for my first appointment. What month was this?
+
+468
+00:48:30,400 --> 00:48:32,320
+This would have been in August, actually.
+
+469
+00:48:32,320 --> 00:48:33,360
+August 2020.
+
+470
+00:48:33,360 --> 00:48:34,480
+Yeah, August 2020.
+
+471
+00:48:34,480 --> 00:48:38,000
+Wow. Yeah. So five months after we knew it was real.
+
+472
+00:48:38,000 --> 00:48:46,400
+Exactly. And I actually calculated, I was within the first 10,000 days of the vaccine.
+
+473
+00:48:46,400 --> 00:48:51,520
+10,000 patients dosed. Yeah. Within the first 10 for the Pfizer.
+
+474
+00:48:51,520 --> 00:48:54,720
+And you didn't know at the time if you had actually gotten a vaccine or if it was placebo?
+
+475
+00:48:54,720 --> 00:48:55,360
+Had no idea.
+
+476
+00:48:56,160 --> 00:49:00,560
+And you were instructed just live your life as you normally would.
+
+477
+00:49:00,560 --> 00:49:00,880
+Exactly.
+
+478
+00:49:00,880 --> 00:49:02,160
+And we're going to keep testing you.
+
+479
+00:49:02,160 --> 00:49:04,400
+They viewed me as high risk because I had kids.
+
+480
+00:49:06,400 --> 00:49:13,920
+And because we lived fairly close to Boston. And so, got the shot, felt nothing. Carried on with
+
+481
+00:49:13,920 --> 00:49:20,080
+my life. I was a little bummed that I didn't feel anything because that hinted to me that I might
+
+482
+00:49:20,080 --> 00:49:26,640
+have gotten placebo rather than the vaccine. Then 21 days later, got a second shot. Also felt nothing.
+
+483
+00:49:26,640 --> 00:49:31,600
+Was also bummed that I didn't feel anything because that confirmed to me at least that I thought.
+
+484
+00:49:31,600 --> 00:49:34,160
+Because they told you you might be sore or feel out of it or something.
+
+485
+00:49:34,160 --> 00:49:38,000
+Yeah. I thought I would have felt something because usually when you get vaccines,
+
+486
+00:49:38,000 --> 00:49:40,960
+your arm is like flu vaccine. Your arm is usually kind of sore.
+
+487
+00:49:40,960 --> 00:49:41,680
+Yeah. Yeah.
+
+488
+00:49:41,680 --> 00:49:43,280
+And so-
+
+489
+00:49:43,280 --> 00:49:50,240
+And I've heard that lipid nanoparticle, I mean it's nanoparticle, it's actually fairly big
+
+490
+00:49:50,240 --> 00:49:53,600
+as a delivery device that it can make. That's kind of what makes you tired and sore.
+
+491
+00:49:55,920 --> 00:49:57,040
+And so, yeah.
+
+492
+00:49:57,040 --> 00:50:02,640
+It's good at eliciting immune responses. So lipid nanoparticles are generally the size of a virus.
+
+493
+00:50:02,640 --> 00:50:03,280
+Yeah.
+
+494
+00:50:03,280 --> 00:50:09,920
+And so, one of the major innovations that was made that kind of led mRNA vaccines to actually be real
+
+495
+00:50:09,920 --> 00:50:18,000
+was at a Nobel Prize was given to Drew Weissman and Carolyn Catalanco. They identified how to
+
+496
+00:50:18,000 --> 00:50:23,440
+de-immunize mRNA. So to make it not elicit an immune response by changing particular,
+
+497
+00:50:23,440 --> 00:50:27,760
+making chemical changes in the actual nucleic acid. And that actually was kind of the key.
+
+498
+00:50:27,760 --> 00:50:31,920
+Because otherwise your body would recognize the mRNA that was administered and reject it.
+
+499
+00:50:31,920 --> 00:50:32,640
+Attack it, yeah.
+
+500
+00:50:32,640 --> 00:50:37,760
+So what they figured out was a way to essentially mask it from the human immune system. It would
+
+501
+00:50:37,760 --> 00:50:44,720
+allow it to then essentially be translated into whatever protein it was supposed to translate.
+
+502
+00:50:44,720 --> 00:50:48,320
+But the LNP portion actually did serve as a good immune enhancing
+
+503
+00:50:49,280 --> 00:50:52,560
+adjuvant, which is why the vaccines just work so well.
+
+504
+00:50:52,560 --> 00:50:53,280
+Yeah, great.
+
+505
+00:50:54,560 --> 00:50:55,280
+So with...
+
+506
+00:50:56,160 --> 00:50:59,920
+Did anything change after the trial to the one that you got then the one that I got?
+
+507
+00:51:00,400 --> 00:51:05,680
+Did anything change in terms of density of mRNA delivered or anything like that?
+
+508
+00:51:05,680 --> 00:51:13,920
+I think they changed... Yeah, so the first... First off, the vaccine was 90% effective for...
+
+509
+00:51:14,880 --> 00:51:16,640
+I think it was called the Wuhan strain.
+
+510
+00:51:16,640 --> 00:51:17,520
+Wow.
+
+511
+00:51:17,520 --> 00:51:25,280
+Then they realized that other strains are on the horizon. So because coronavirus is a
+
+512
+00:51:25,280 --> 00:51:31,680
+positive RNA stranded virus, it has a tendency to undergo a low rate of mutational change.
+
+513
+00:51:31,680 --> 00:51:38,720
+And that was manifest in subsequent strains of COVID, unfortunately. I think the big ones were
+
+514
+00:51:38,720 --> 00:51:44,880
+Delta, where you had a couple of mutations in the spike region. Then the big one was Omicron,
+
+515
+00:51:44,880 --> 00:51:48,560
+which hit us really hard about a year after the pandemic first started, where you had some
+
+516
+00:51:48,560 --> 00:51:53,520
+additional changes that... And those changes, what they tended to do was evade our existing
+
+517
+00:51:53,520 --> 00:52:00,400
+immune response as well as to some of the vaccines from the get go. So with the vaccines,
+
+518
+00:52:00,400 --> 00:52:07,920
+what they had to do first was rather than two shots, providing a third shot would then bring
+
+519
+00:52:07,920 --> 00:52:16,320
+our immunity back up to level between the Wuhan strain and the Delta strain. So two shots, 90%
+
+520
+00:52:17,200 --> 00:52:22,240
+activity against the Wuhan strain, but there's a drop off for Delta. You give a third shot,
+
+521
+00:52:22,240 --> 00:52:27,520
+then you're able to boost immunity back up to the Delta strain. But the problem is that COVID is
+
+522
+00:52:27,520 --> 00:52:34,080
+going to continue to mutate and work to evade the immunity that the vaccines were able to elicit.
+
+523
+00:52:34,080 --> 00:52:40,960
+So Omicron, we actually had to get a tweak, the actual sequence of the mRNA within the virus in
+
+524
+00:52:40,960 --> 00:52:47,520
+order to make it better match the Omicron strain. Cool. Yeah. I'm trying to follow along as much
+
+525
+00:52:47,520 --> 00:52:53,280
+as I can. As I've been... I've gotten all my boosters and everything. I've been a good boy.
+
+526
+00:52:53,280 --> 00:52:59,280
+I have two questions left. One is, you told me a story that I think would be awesome if you shared
+
+527
+00:52:59,280 --> 00:53:08,720
+it. You Mr. Wizarded your own testing. How does that work? Yeah. So in the early days of the
+
+528
+00:53:08,720 --> 00:53:15,920
+pandemic, being able to access tests was an issue. I think I mentioned earlier that we were largely
+
+529
+00:53:15,920 --> 00:53:23,280
+blind. So the first test I ever had, I think it was through a commercial vendor. I'm guessing it
+
+530
+00:53:23,280 --> 00:53:29,200
+was in the spring at some point. Things were so chaotic that they never sent me the results.
+
+531
+00:53:30,160 --> 00:53:35,040
+I think I paid like a hundred bucks out of pocket and it just never showed up. So
+
+532
+00:53:36,560 --> 00:53:41,680
+being able to access a good COVID test was a major, major problem. And they also were not cheap.
+
+533
+00:53:41,680 --> 00:53:48,000
+So one of the benefits of being in biotech is you have a lot of like-minded individuals around you
+
+534
+00:53:48,000 --> 00:53:53,840
+that kind of egg each other on and encourage you to kind of operate at the edges. So we set up...
+
+535
+00:53:53,840 --> 00:54:00,240
+I actually set up together with a couple of my biotech friends, kind of a home testing
+
+536
+00:54:01,040 --> 00:54:10,320
+system where I purchased a early 90s vintage PCR machine. It was a very, very cheap machine.
+
+537
+00:54:10,320 --> 00:54:15,680
+A PCR machine which allows you to do the thermo-cycling that is required in order to amplify
+
+538
+00:54:16,560 --> 00:54:22,320
+the actual nucleic acid regions of COVID. So I purchased it on eBay for, believe it or not,
+
+539
+00:54:22,320 --> 00:54:27,680
+like 150 bucks, which I'm actually to this day, I'm surprised it was so inexpensive.
+
+540
+00:54:28,880 --> 00:54:34,320
+It was definitely an early model where I actually had to think folks, scientists,
+
+541
+00:54:34,320 --> 00:54:39,120
+we'll get the reference, actually had to use mineral oil and apply it on top of the reaction
+
+542
+00:54:39,120 --> 00:54:46,880
+just because that's how archaic the PCR machine was. So worked with a couple of my biotech
+
+543
+00:54:46,880 --> 00:54:53,840
+colleagues to procure reagents. And we actually pooled funds, we shared reagents. And we would
+
+544
+00:54:53,840 --> 00:54:59,600
+essentially optimize protocols in parallel to each other and kind of share tips as to what the best
+
+545
+00:54:59,600 --> 00:55:07,440
+possible protocol could be. And what this meant was is that anytime, and the example I'll use is
+
+546
+00:55:07,440 --> 00:55:15,360
+when my brother was visiting from out of town and we're about to get together for Easter.
+
+547
+00:55:16,560 --> 00:55:23,280
+Brother came into town. Before he basically came into our house, we had him swab as well as his
+
+548
+00:55:23,280 --> 00:55:29,120
+family. We did a quick PCR test on our kitchen counter. I'm sitting there with my gloves,
+
+549
+00:55:29,920 --> 00:55:35,840
+literally on my kitchen counter. Tests came up negative. Okay, you can come into the house.
+
+550
+00:55:35,840 --> 00:55:39,840
+Then we tested them again the next day before we went to go visit my parents. And
+
+551
+00:55:41,840 --> 00:55:46,160
+the lengths that you would go through just to make sure that you were clean before you were
+
+552
+00:55:46,160 --> 00:55:51,760
+visiting family, I mean, people would crawl through mud in order to get there just to make sure
+
+553
+00:55:52,560 --> 00:55:59,760
+that things were safe. Yeah, absolutely. Yeah, we had the same deal when my mom and stepdad came out
+
+554
+00:55:59,760 --> 00:56:07,120
+to visit. And first time they came out, totally innocuous, nothing happened. Second time they came
+
+555
+00:56:07,120 --> 00:56:13,840
+out, two days in, I had a scratchy throat. I took a test and that turned out positive. So I just ran
+
+556
+00:56:13,840 --> 00:56:17,440
+out of the basement, called them an Uber and they were on the next flight back at that point.
+
+557
+00:56:19,120 --> 00:56:23,680
+And it was just like, I felt awful. And you feel guilty. You feel guilty. Like, what did I just do?
+
+558
+00:56:23,680 --> 00:56:30,240
+You know, and I'm like, this is my mom and my stepdad. I don't want to be responsible for them
+
+559
+00:56:30,240 --> 00:56:39,520
+getting seriously ill. And yeah, my stepdad, they both ended up catching COVID. Both ended up being
+
+560
+00:56:39,520 --> 00:56:46,080
+fine. My mom got hit pretty hard by it and I just felt awful. But I think everyone has a similar
+
+561
+00:56:46,080 --> 00:56:54,000
+story from that time. You feel like an idiot for getting sick. I don't even know where I got it.
+
+562
+00:56:54,000 --> 00:56:55,600
+Probably wasn't working out the groceries hard enough.
+
+563
+00:56:59,520 --> 00:57:04,800
+So one thing I wanted to cover before we wrap up is looking into 2074.
+
+564
+00:57:07,680 --> 00:57:13,120
+Hopefully there's not another pandemic before then, but if one hits 2074,
+
+565
+00:57:13,120 --> 00:57:18,640
+give them some tips. Yeah, yeah, yeah. I mean, hopefully this doesn't happen. Unfortunately,
+
+566
+00:57:18,640 --> 00:57:27,280
+I actually think we kind of got lucky with this one. I know, I'm just going to not to bring everyone
+
+567
+00:57:27,280 --> 00:57:33,520
+down, but the fact is, is that the mortality rate for COVID was actually pretty low. If you think
+
+568
+00:57:33,520 --> 00:57:39,920
+about the mortality rates that we've touched on for the 1918 flu, as well as SARS-1, we actually
+
+569
+00:57:39,920 --> 00:57:50,080
+dodged a little bit of a bullet. And it was a bit of a highlight that I think that there's certain
+
+570
+00:57:50,080 --> 00:57:57,840
+areas that we definitely could have done better in terms of preparation. The good news is that
+
+571
+00:57:57,840 --> 00:58:03,840
+it certainly shed light on the need to be very vigilant upfront, just making sure that you have
+
+572
+00:58:03,840 --> 00:58:11,040
+mass testing, that you're able to track it. Because we just did. And we lost some weeks as a result.
+
+573
+00:58:12,480 --> 00:58:18,160
+The mRNA technology is certainly not going anywhere. It's an incredibly powerful tool,
+
+574
+00:58:18,160 --> 00:58:26,880
+I think, in our arsenal. It also is going to evolve. I was thinking about what times of crisis like
+
+575
+00:58:26,880 --> 00:58:35,040
+COVID, what it catalyzes. And I think a good analogy could be, you think about the technical
+
+576
+00:58:35,040 --> 00:58:40,080
+innovations that came about just because of World War II, or just because of the Cold War.
+
+577
+00:58:40,080 --> 00:58:46,080
+I mean, for World War II, you had computers, you had nuclear power, radar. From the Cold War,
+
+578
+00:58:46,080 --> 00:58:51,680
+you had a lot of just major leaps and bounds based off of that foundational technology.
+
+579
+00:58:51,680 --> 00:58:57,920
+I think for COVID-19, we're probably going to see at least something analogous. Maybe not something
+
+580
+00:58:57,920 --> 00:59:01,200
+similar, but something analogous, at least to add to our arsenal.
+
+581
+00:59:01,200 --> 00:59:06,800
+Yeah. It's incredible what humans can do. I mean, give someone a task in a deadline,
+
+582
+00:59:06,800 --> 00:59:10,400
+they can do it. And in times of crisis, the deadline is always tomorrow.
+
+583
+00:59:10,400 --> 00:59:11,120
+Yeah.
+
+584
+00:59:11,120 --> 00:59:18,240
+So, and it is incredible to me to hear you say something that should have taken a decade,
+
+585
+00:59:18,240 --> 00:59:22,080
+as we can condense down to you had it in five months.
+
+586
+00:59:22,080 --> 00:59:29,440
+It's incredible. I mean, what Pfizer-Moderna did is incredible. I mean, the way I look at it is,
+
+587
+00:59:30,000 --> 00:59:34,880
+no matter what, biology will win. Like at the end of the day, and I think there was a famous,
+
+588
+00:59:35,520 --> 00:59:40,080
+more popular slogan that science will win. I think that might have been Pfizer's tag line.
+
+589
+00:59:40,080 --> 00:59:43,360
+But anyway, I'll call it biology will win, just so it's not necessarily an advertisement for
+
+590
+00:59:43,360 --> 00:59:49,360
+Pfizer here. But the reality is biology will win. The virus is going to figure out a way to do what
+
+591
+00:59:49,360 --> 00:59:54,160
+it's going to do. And the big question is, how can you actually harness that biology for good?
+
+592
+00:59:54,880 --> 00:59:59,920
+How can you figure out what the Achilles heel of that particular biology could be and make
+
+593
+00:59:59,920 --> 01:00:01,520
+it work for you rather than against you?
+
+594
+01:00:01,520 --> 01:00:07,360
+Yeah. Awesome. Well, this has been amazing. I think we had other stuff that was on the list,
+
+595
+01:00:07,360 --> 01:00:14,640
+but I don't want to go too long. Anyone with my attention span isn't going to make it past here.
+
+596
+01:00:14,640 --> 01:00:19,760
+But this has been great, very educational. A trip down memory dark alley.
+
+597
+01:00:19,760 --> 01:00:21,760
+A little bit of PTSD there.
+
+598
+01:00:21,760 --> 01:00:32,000
+Yeah, a little bit. But I think we all had interesting times. I think everyone had
+
+599
+01:00:32,000 --> 01:00:39,600
+lost during the time. I thought it would be good to talk about this from those different points
+
+600
+01:00:39,600 --> 01:00:47,920
+of view and just cover it. So I hope it's been educational and 2075 humans.
+
+601
+01:00:47,920 --> 01:00:48,480
+Yeah.
+
+602
+01:00:48,480 --> 01:00:49,920
+I hope you're healthy and happy.
+
+603
+01:00:49,920 --> 01:00:54,960
+Hopefully your health care workers and your scientists are as dedicated and hardworking
+
+604
+01:00:54,960 --> 01:00:58,400
+and self-sacrificing as they were. If you ever do go through this again,
+
+605
+01:00:58,400 --> 01:00:59,840
+as they were at this time around.
+
+606
+01:00:59,840 --> 01:01:07,440
+Absolutely. Well, thanks so much and we'll sign off and get back to the daily thing.
